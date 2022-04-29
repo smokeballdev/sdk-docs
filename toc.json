@@ -10,7 +10,7 @@
       "items": [
         {
           "type": "item",
-          "title": "Reference",
+          "title": "Entry Point",
           "uri": "docs/sdk/smokeball-client-sdk.md"
         },
         {
