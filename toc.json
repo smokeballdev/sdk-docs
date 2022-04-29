@@ -19,7 +19,7 @@
       "items": [
         {
           "type": "item",
-          "title": "Entry Point",
+          "title": "Package",
           "uri": "docs/sdk/smokeball-client-sdk.md"
         },
         {
