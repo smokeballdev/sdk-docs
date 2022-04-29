@@ -1,2 +1,3 @@
-# sdk-docs
-Client SDK documentation
+# Smokeball Client SDK
+
+https://smokeball.stoplight.io/docs/sdk-docs
