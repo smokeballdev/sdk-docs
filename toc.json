@@ -2,6 +2,14 @@
   "items": [
     {
       "type": "divider",
+      "title": "DOCUMENTATION"
+    },
+    {
+      "type": "divider",
+      "title": "Changelog"
+    },
+    {
+      "type": "divider",
       "title": "APIS"
     },
     {
