@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "divider",
+      "title": "Documentation"
+    },
+    {
+      "type": "group",
+      "title": "SDK",
+      "items": [
+        {
+          "type": "item",
+          "title": "Reference",
+          "uri": "docs/sdk/smokeball-client-sdk.md"
+        },
+        {
+          "type": "item",
+          "title": "Matters",
+          "uri": "docs/sdk/smokeball-client-sdk.matters.api.md"
+        },
+        {
+          "type": "item",
+          "title": "MatterItems",
+          "uri": "docs/sdk/smokeball-client-sdk.matteritems.api.md"
+        },
+        {
+          "type": "item",
+          "title": "Contacts",
+          "uri": "docs/sdk/smokeball-client-sdk.contacts.api.md"
+        },
+        {
+          "type": "item",
+          "title": "Layouts",
+          "uri": "docs/sdk/smokeball-client-sdk.layouts.api.md"
+        }
+      ]
+    }
+  ]
+}
