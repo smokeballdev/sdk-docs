@@ -6,8 +6,6 @@
 
 Creates a subscription for all contacts. Check against the contact you are interested in within your registered callback.
 
-To prevent doubling up of changes, notifications triggered by the contact update call will not be notified here.
-
 Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used.
 
 <b>Signature:</b>
