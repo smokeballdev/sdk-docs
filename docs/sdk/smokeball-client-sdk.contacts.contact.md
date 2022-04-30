@@ -22,4 +22,5 @@ interface Contact
 |  [isDeleted](./smokeball-client-sdk.contacts.contact.isdeleted.md) | boolean | Returns true if the contact is deleted. |
 |  [lastUpdated](./smokeball-client-sdk.contacts.contact.lastupdated.md) | number | Last updated timestamp of the contact. |
 |  [person?](./smokeball-client-sdk.contacts.contact.person.md) | [Person](./smokeball-client-sdk.contacts.person.md) | <i>(Optional)</i> Person details of the contact. |
+|  [versionId](./smokeball-client-sdk.contacts.contact.versionid.md) | string | Version id. Can be used to determine if the contact has changed. |
 

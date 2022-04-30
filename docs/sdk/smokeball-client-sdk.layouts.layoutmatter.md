@@ -18,4 +18,5 @@ interface LayoutMatter
 |  --- | --- | --- |
 |  [matterId](./smokeball-client-sdk.layouts.layoutmatter.matterid.md) | string | Matter id. |
 |  [value?](./smokeball-client-sdk.layouts.layoutmatter.value.md) | [LayoutMatterItem](./smokeball-client-sdk.layouts.layoutmatteritem.md)<!-- -->\[\] | <i>(Optional)</i> Represents the individual layout item(s) that appear on the matter. |
+|  [versionId](./smokeball-client-sdk.layouts.layoutmatter.versionid.md) | string | Version id. Can be used to determine if the layout has changed. |
 
