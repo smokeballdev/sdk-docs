@@ -15,7 +15,7 @@
     },
     {
       "type": "group",
-      "title": "Client SDK",
+      "title": "ClientSDK",
       "items": [
         {
           "type": "item",
