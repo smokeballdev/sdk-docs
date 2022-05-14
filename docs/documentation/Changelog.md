@@ -4,9 +4,10 @@ tags: [Documentation]
 
 # Changelog
 
-## 2022-05-16 (v8.3)
+## May 2022
 
-* Added Matters API
-* Added MatterItems API
-* Added Contacts API
-* Added Layouts API
+* Added documentation.
+* Added Matters API.
+* Added MatterItems API.
+* Added Contacts API.
+* Added Layouts API.
