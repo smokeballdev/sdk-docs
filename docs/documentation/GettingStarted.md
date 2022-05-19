@@ -19,7 +19,7 @@ A non-null sdk will indicate that interopability with Smokeball is possible and 
 await sdk.init();
 ```
 
-After initialization, the sdk [context](./smokeball-client-sdk.common.context.md) item will be set which can be accessed:
+After initialization, the sdk [context](https://smokeball.stoplight.io/docs/sdk-docs/4e893caa75c49-common-context-interface) item will be set which can be accessed:
 
 ```
 const context = sdk.context;
