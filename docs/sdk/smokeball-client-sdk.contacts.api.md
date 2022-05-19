@@ -21,7 +21,7 @@ interface Api
 |  Method | Description |
 |  --- | --- |
 |  [get(contactId)](./smokeball-client-sdk.contacts.api.get.md) | Gets the contact associated to the specified contact id. |
-|  [observe(callback)](./smokeball-client-sdk.contacts.api.observe.md) | Creates a subscription for all contacts. Check against the contact you are interested in within your registered callback.<!-- -->Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used. |
+|  [observe(callback)](./smokeball-client-sdk.contacts.api.observe.md) | Creates a subscription for all contacts. Check against the contact you are interested in within your registered callback.<!-- -->To prevent doubling up of changes, notifications triggered by the contact update call will not be notified here.<!-- -->Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used. |
 |  [open(contactId)](./smokeball-client-sdk.contacts.api.open.md) | Opens the contact associated to the specified contact id. |
 |  [update(request)](./smokeball-client-sdk.contacts.api.update.md) | Updates the contact associated to the specified contact id and returns the contact. |
 
