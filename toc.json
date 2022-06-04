@@ -6,11 +6,6 @@
     },
     {
       "type": "item",
-      "title": "Changelog",
-      "uri": "docs/documentation/Changelog.md"
-    },
-    {
-      "type": "item",
       "title": "Getting Started",
       "uri": "docs/documentation/GettingStarted.md"
     },
