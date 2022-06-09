@@ -27,16 +27,10 @@ Promise&lt;[Role](./smokeball-client-sdk.roles.role.md)<!-- -->&gt;
 
 ```
 const request: UpdateRoleRequest = {
- role: {
-   id: '6f00a467-2d2d-40e2-944f-dff48d3617b4',
-   // Specify the fields to update here.
-   contactId: 'fd540bd6-f74c-45bf-b2ab-8107d0781a83',
-   representativeIds: [
-     'ee0f1eb0-1ea3-42b1-9c3b-1c9ea91f37e6',
-     'f4328874-4413-47f4-becf-3abf337f21a1'
-   ]
- }
+  id: '6f00a467-2d2d-40e2-944f-dff48d3617b4',
+  // Specify the fields to update here.
+  contactId: 'fd540bd6-f74c-45bf-b2ab-8107d0781a83',
 };
-const contact = await sdk.contacts.update(request);
+const roles = await sdk.roles.update(request);
 ```
 
