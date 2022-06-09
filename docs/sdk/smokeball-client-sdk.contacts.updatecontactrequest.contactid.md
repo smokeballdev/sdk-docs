@@ -4,7 +4,7 @@
 
 ## contacts.UpdateContactRequest.contactId property
 
-Deprecated, use `id`<!-- -->.
+Deprecated, use id.
 
 <b>Signature:</b>
 

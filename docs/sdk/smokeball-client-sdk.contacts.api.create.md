@@ -4,7 +4,9 @@
 
 ## contacts.Api.create() method
 
-Create a new contact and returns the contact. Currently only Person contacts are supported.
+Create a new contact and returns the contact.
+
+Currently only Person contacts are supported.
 
 <b>Signature:</b>
 

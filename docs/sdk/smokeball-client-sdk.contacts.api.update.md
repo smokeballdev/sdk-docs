@@ -4,7 +4,9 @@
 
 ## contacts.Api.update() method
 
-Updates the contact associated to the specified contact id and returns the contact. Currently only Person contacts are supported.
+Updates the contact associated to the specified contact id and returns the contact.
+
+Currently only Person contacts are supported.
 
 <b>Signature:</b>
 

@@ -16,11 +16,11 @@ interface Matter
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [clients](./smokeball-client-sdk.matters.matter.clients.md) | common.EntityRef\[\] | Client(s) associated to the matter. |
+|  [clientIds](./smokeball-client-sdk.matters.matter.clientids.md) | string\[\] | Client(s) associated to the matter. |
 |  [id](./smokeball-client-sdk.matters.matter.id.md) | string | Matter id. |
 |  [isLead](./smokeball-client-sdk.matters.matter.islead.md) | boolean | Returns true if the matter is a lead. |
-|  [matterType](./smokeball-client-sdk.matters.matter.mattertype.md) | common.EntityRef | MatterType associated to the matter. |
+|  [matterTypeId](./smokeball-client-sdk.matters.matter.mattertypeid.md) | string | MatterType associated to the matter. |
 |  [number](./smokeball-client-sdk.matters.matter.number.md) | string | Matter number. |
-|  [otherSides](./smokeball-client-sdk.matters.matter.othersides.md) | common.EntityRef\[\] | OtherSide(s) associated to the matter. |
+|  [otherSideIds](./smokeball-client-sdk.matters.matter.othersideids.md) | string\[\] | OtherSide(s) associated to the matter. |
 |  [status](./smokeball-client-sdk.matters.matter.status.md) | string | Matter status. |
 

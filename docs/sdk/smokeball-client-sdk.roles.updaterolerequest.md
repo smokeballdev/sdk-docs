@@ -18,6 +18,5 @@ interface UpdateRoleRequest
 |  --- | --- | --- |
 |  [contactId](./smokeball-client-sdk.roles.updaterolerequest.contactid.md) | string | Contact id on the role. |
 |  [id](./smokeball-client-sdk.roles.updaterolerequest.id.md) | string | Role id. |
-|  [matterId?](./smokeball-client-sdk.roles.updaterolerequest.matterid.md) | string | <i>(Optional)</i> Matter id. Passing a custom matter id is currently not support. The matter in the current context will always be used. |
 |  [representativeIds](./smokeball-client-sdk.roles.updaterolerequest.representativeids.md) | string\[\] | Representative ids on the role. |
 

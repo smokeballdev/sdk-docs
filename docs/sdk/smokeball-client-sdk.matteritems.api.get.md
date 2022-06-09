@@ -29,6 +29,6 @@ the matter items for the specified matter.
 
 ```
 // Returns the matter items with the specified matter id.
-const matterItems = await sdk.matterIters.get('e9b9084b-c9b4-4f3c-9f5a-4c83ed3ac265');
+const matterItems = await sdk.matterItems.get('e9b9084b-c9b4-4f3c-9f5a-4c83ed3ac265');
 ```
 

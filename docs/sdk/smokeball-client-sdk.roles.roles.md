@@ -4,7 +4,7 @@
 
 ## roles.Roles interface
 
-The matter items from Smokeball.
+The matter roles from Smokeball.
 
 <b>Signature:</b>
 
