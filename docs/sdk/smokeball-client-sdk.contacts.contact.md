@@ -16,8 +16,6 @@ interface Contact
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [company?](./smokeball-client-sdk.contacts.contact.company.md) | [Person](./smokeball-client-sdk.contacts.person.md) | <i>(Optional)</i> Company details of the contact. |
-|  [groupOfPeople?](./smokeball-client-sdk.contacts.contact.groupofpeople.md) | [Person](./smokeball-client-sdk.contacts.person.md) | <i>(Optional)</i> Group of people details of the contact. |
 |  [id](./smokeball-client-sdk.contacts.contact.id.md) | string | Contact id. |
 |  [isDeleted](./smokeball-client-sdk.contacts.contact.isdeleted.md) | boolean | Returns true if the contact is deleted. |
 |  [lastUpdated](./smokeball-client-sdk.contacts.contact.lastupdated.md) | number | Last updated timestamp of the contact. |
