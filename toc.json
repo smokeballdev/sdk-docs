@@ -51,7 +51,12 @@
           "type": "item",
           "title": "Layouts",
           "uri": "docs/sdk/smokeball-client-sdk.layouts.api.md"
-        }
+        },
+        {
+          "type": "item",
+          "title": "Files",
+          "uri": "docs/sdk/smokeball-client-sdk.files.api.md"
+        } 
       ]
     }
   ]
