@@ -22,6 +22,7 @@
 |  --- | --- |
 |  [common](./smokeball-client-sdk.common.md) |  |
 |  [contacts](./smokeball-client-sdk.contacts.md) |  |
+|  [files](./smokeball-client-sdk.files.md) |  |
 |  [host](./smokeball-client-sdk.host.md) |  |
 |  [layouts](./smokeball-client-sdk.layouts.md) |  |
 |  [matterItems](./smokeball-client-sdk.matteritems.md) |  |
