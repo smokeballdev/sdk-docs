@@ -4,7 +4,7 @@
 
 ## files.Api.open() method
 
-Opens the specified files in the native app.
+Opens the specified file in the native app.
 
 <b>Signature:</b>
 
@@ -31,6 +31,6 @@ const request: FileRequest = {
  // The matter id can be left empty if the file is in the same context.
  matterId: '410f2b2b-7adf-436e-a5fd-dab1733d3fba'
 }
-sdk.files.open();
+sdk.files.open(request);
 ```
 

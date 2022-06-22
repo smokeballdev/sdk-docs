@@ -16,5 +16,5 @@ interface Api
 
 |  Method | Description |
 |  --- | --- |
-|  [open(request)](./smokeball-client-sdk.files.api.open.md) | Opens the specified files in the native app. |
+|  [open(request)](./smokeball-client-sdk.files.api.open.md) | Opens the specified file in the native app. |
 
