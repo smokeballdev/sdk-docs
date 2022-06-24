@@ -17,5 +17,5 @@ interface CreateRoleRequest
 |  Property | Type | Description |
 |  --- | --- | --- |
 |  [contactId](./smokeball-client-sdk.roles.createrolerequest.contactid.md) | string | Contact id on the role. |
-|  [representativeIds](./smokeball-client-sdk.roles.createrolerequest.representativeids.md) | string\[\] | Representative ids on the role. |
+|  [name](./smokeball-client-sdk.roles.createrolerequest.name.md) | string | Name of the role. |
 

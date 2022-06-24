@@ -18,5 +18,4 @@ interface UpdateRoleRequest
 |  --- | --- | --- |
 |  [contactId](./smokeball-client-sdk.roles.updaterolerequest.contactid.md) | string | Contact id on the role. |
 |  [id](./smokeball-client-sdk.roles.updaterolerequest.id.md) | string | Role id. |
-|  [representativeIds](./smokeball-client-sdk.roles.updaterolerequest.representativeids.md) | string\[\] | Representative ids on the role. |
 
