@@ -4,12 +4,12 @@
 
 ## files.Api.select() method
 
-Opens a file picker to select files from a matter.
+Opens a file picker to select files from a matter. Returns the selected files.
 
 <b>Signature:</b>
 
 ```typescript
-select(request: SelectFilesRequest): void;
+select(request: SelectFilesRequest): Promise<files.File[]>;
 ```
 
 ## Parameters
@@ -20,7 +20,7 @@ select(request: SelectFilesRequest): void;
 
 <b>Returns:</b>
 
-void
+Promise&lt;[files.File](./smokeball-client-sdk.files.file.md)<!-- -->\[\]&gt;
 
 ## Example
 
