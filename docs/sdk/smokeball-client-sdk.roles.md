@@ -15,8 +15,8 @@ export declare namespace roles
 
 |  Interface | Description |
 |  --- | --- |
+|  [AddRoleRequest](./smokeball-client-sdk.roles.addrolerequest.md) | Create role request. |
 |  [Api](./smokeball-client-sdk.roles.api.md) | Entry point for roles to Smokeball. |
-|  [CreateRoleRequest](./smokeball-client-sdk.roles.createrolerequest.md) | Create role request. |
 |  [Role](./smokeball-client-sdk.roles.role.md) | The role entity from Smokeball. |
 |  [Roles](./smokeball-client-sdk.roles.roles.md) | The matter roles from Smokeball. |
 |  [UpdateRoleRequest](./smokeball-client-sdk.roles.updaterolerequest.md) | Update role request. |

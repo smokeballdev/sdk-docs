@@ -17,4 +17,5 @@ interface Api
 |  Method | Description |
 |  --- | --- |
 |  [open(request)](./smokeball-client-sdk.files.api.open.md) | Opens the specified file in the native app. |
+|  [select(request)](./smokeball-client-sdk.files.api.select.md) | Opens a file picker to select files from a matter. |
 

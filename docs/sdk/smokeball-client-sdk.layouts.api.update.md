@@ -9,14 +9,14 @@ Updates the layout associated to the specified matter id and returns the layout.
 <b>Signature:</b>
 
 ```typescript
-update(request: layouts.UpdateLayoutMatterRequest): Promise<LayoutMatter>;
+update(request: layouts.UpdateLayoutMatterItemRequest): Promise<LayoutMatter>;
 ```
 
 ## Parameters
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  request | [layouts.UpdateLayoutMatterRequest](./smokeball-client-sdk.layouts.updatelayoutmatterrequest.md) | the update request. |
+|  request | [layouts.UpdateLayoutMatterItemRequest](./smokeball-client-sdk.layouts.updatelayoutmatteritemrequest.md) | the update request. |
 
 <b>Returns:</b>
 
@@ -26,11 +26,11 @@ Promise&lt;[LayoutMatter](./smokeball-client-sdk.layouts.layoutmatter.md)<!-- --
 
 
 ```
-const request: UpdateLayoutMatterRequest = {
+const request: UpdateLayoutMatterItemRequest = {
   matterId: 'a31260b5-9921-4723-83c5-61b8679941af',
   itemId: '7250a634-4d67-4054-8f07-5b6c8a9dcfa8',
   values: [
-  // Specify the fields to update here. Fields that are missing are ignored.
+      // Specify the fields to update here. Fields that are missing are ignored.
   ]
 };
 const layout = await sdk.layouts.update(request);

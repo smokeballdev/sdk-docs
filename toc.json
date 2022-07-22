@@ -29,6 +29,16 @@
         },
         {
           "type": "item",
+          "title": "Contacts",
+          "uri": "docs/sdk/smokeball-client-sdk.contacts.api.md"
+        },
+        {
+          "type": "item",
+          "title": "Correspondence",
+          "uri": "docs/sdk/smokeball-client-sdk.correspondence.api.md"
+        },
+        {
+          "type": "item",
           "title": "Matters",
           "uri": "docs/sdk/smokeball-client-sdk.matters.api.md"
         },
@@ -41,11 +51,6 @@
           "type": "item",
           "title": "Roles",
           "uri": "docs/sdk/smokeball-client-sdk.roles.api.md"
-        },
-        {
-          "type": "item",
-          "title": "Contacts",
-          "uri": "docs/sdk/smokeball-client-sdk.contacts.api.md"
         },
         {
           "type": "item",

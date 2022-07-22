@@ -15,10 +15,12 @@ export declare namespace layouts
 
 |  Interface | Description |
 |  --- | --- |
+|  [AddLayoutMatterItemRequest](./smokeball-client-sdk.layouts.addlayoutmatteritemrequest.md) | Add layout request. |
 |  [Api](./smokeball-client-sdk.layouts.api.md) | Entry point for layouts to Smokeball. |
 |  [LayoutDesign](./smokeball-client-sdk.layouts.layoutdesign.md) | Layout design id. This is the template that a layout item is built off. |
 |  [LayoutMatter](./smokeball-client-sdk.layouts.layoutmatter.md) | The layout entity from Smokeball. |
 |  [LayoutMatterItem](./smokeball-client-sdk.layouts.layoutmatteritem.md) | The layout item entity from Smokeball. |
 |  [LayoutValue](./smokeball-client-sdk.layouts.layoutvalue.md) | Layout value. |
-|  [UpdateLayoutMatterRequest](./smokeball-client-sdk.layouts.updatelayoutmatterrequest.md) | Update layout request. |
+|  [RemoveLayoutMatterItemRequest](./smokeball-client-sdk.layouts.removelayoutmatteritemrequest.md) | Remove layout request. |
+|  [UpdateLayoutMatterItemRequest](./smokeball-client-sdk.layouts.updatelayoutmatteritemrequest.md) | Update layout request. |
 

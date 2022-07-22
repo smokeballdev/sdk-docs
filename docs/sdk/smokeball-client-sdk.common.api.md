@@ -18,7 +18,9 @@ interface Api
 |  --- | --- | --- |
 |  [contacts](./smokeball-client-sdk.common.api.contacts.md) | [contacts.Api](./smokeball-client-sdk.contacts.api.md) |  |
 |  [context](./smokeball-client-sdk.common.api.context.md) | [Context](./smokeball-client-sdk.common.context.md) |  |
+|  [correspondence](./smokeball-client-sdk.common.api.correspondence.md) | [correspondence.Api](./smokeball-client-sdk.correspondence.api.md) |  |
 |  [files](./smokeball-client-sdk.common.api.files.md) | [files.Api](./smokeball-client-sdk.files.api.md) |  |
+|  [firms](./smokeball-client-sdk.common.api.firms.md) | [firms.Api](./smokeball-client-sdk.firms.api.md) |  |
 |  [host](./smokeball-client-sdk.common.api.host.md) | [host.Api](./smokeball-client-sdk.host.api.md) |  |
 |  [layouts](./smokeball-client-sdk.common.api.layouts.md) | [layouts.Api](./smokeball-client-sdk.layouts.api.md) |  |
 |  [matterItems](./smokeball-client-sdk.common.api.matteritems.md) | [matterItems.Api](./smokeball-client-sdk.matteritems.api.md) |  |
