@@ -30,6 +30,6 @@ const request: EmailRequest = {
  // Specify the fields here.
 };
 // Opens pre-populated email window.
-sdk.correspondence.open(request);
+sdk.correspondence.email(request);
 ```
 
