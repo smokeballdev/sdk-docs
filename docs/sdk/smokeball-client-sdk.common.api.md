@@ -20,12 +20,13 @@ interface Api
 |  [context](./smokeball-client-sdk.common.api.context.md) | [Context](./smokeball-client-sdk.common.context.md) |  |
 |  [correspondence](./smokeball-client-sdk.common.api.correspondence.md) | [correspondence.Api](./smokeball-client-sdk.correspondence.api.md) |  |
 |  [files](./smokeball-client-sdk.common.api.files.md) | [files.Api](./smokeball-client-sdk.files.api.md) |  |
-|  [firms](./smokeball-client-sdk.common.api.firms.md) | [firms.Api](./smokeball-client-sdk.firms.api.md) |  |
+|  [firm](./smokeball-client-sdk.common.api.firm.md) | [firm.Api](./smokeball-client-sdk.firm.api.md) |  |
 |  [host](./smokeball-client-sdk.common.api.host.md) | [host.Api](./smokeball-client-sdk.host.api.md) |  |
 |  [layouts](./smokeball-client-sdk.common.api.layouts.md) | [layouts.Api](./smokeball-client-sdk.layouts.api.md) |  |
 |  [matterItems](./smokeball-client-sdk.common.api.matteritems.md) | [matterItems.Api](./smokeball-client-sdk.matteritems.api.md) |  |
 |  [matters](./smokeball-client-sdk.common.api.matters.md) | [matters.Api](./smokeball-client-sdk.matters.api.md) |  |
 |  [roles](./smokeball-client-sdk.common.api.roles.md) | [roles.Api](./smokeball-client-sdk.roles.api.md) |  |
+|  [staff](./smokeball-client-sdk.common.api.staff.md) | [staff.Api](./smokeball-client-sdk.staff.api.md) |  |
 
 ## Methods
 

@@ -24,10 +24,11 @@
 |  [contacts](./smokeball-client-sdk.contacts.md) |  |
 |  [correspondence](./smokeball-client-sdk.correspondence.md) |  |
 |  [files](./smokeball-client-sdk.files.md) |  |
-|  [firms](./smokeball-client-sdk.firms.md) |  |
+|  [firm](./smokeball-client-sdk.firm.md) |  |
 |  [host](./smokeball-client-sdk.host.md) |  |
 |  [layouts](./smokeball-client-sdk.layouts.md) |  |
 |  [matterItems](./smokeball-client-sdk.matteritems.md) |  |
 |  [matters](./smokeball-client-sdk.matters.md) |  |
 |  [roles](./smokeball-client-sdk.roles.md) |  |
+|  [staff](./smokeball-client-sdk.staff.md) |  |
 

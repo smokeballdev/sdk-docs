@@ -11,6 +11,12 @@
 export declare namespace host 
 ```
 
+## Enumerations
+
+|  Enumeration | Description |
+|  --- | --- |
+|  [MatterTabs](./smokeball-client-sdk.host.mattertabs.md) |  |
+
 ## Interfaces
 
 |  Interface | Description |

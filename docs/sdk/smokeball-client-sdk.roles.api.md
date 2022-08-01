@@ -16,7 +16,7 @@ interface Api
 
 |  Method | Description |
 |  --- | --- |
-|  [add(request)](./smokeball-client-sdk.roles.api.add.md) | Adds a new role with the specified contactId to the currentr context and returns the role. |
+|  [add(request)](./smokeball-client-sdk.roles.api.add.md) | Adds a new role with the specified contactId to the current context and returns the role. |
 |  [get()](./smokeball-client-sdk.roles.api.get.md) | Gets the roles associated to the current context. |
 |  [remove(id)](./smokeball-client-sdk.roles.api.remove.md) | Removes the specified role from the current context. |
 |  [update(request)](./smokeball-client-sdk.roles.api.update.md) | Updates the role associated to the specified role id and returns the role. |

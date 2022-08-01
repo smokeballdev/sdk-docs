@@ -4,7 +4,7 @@
 
 ## roles.Api.add() method
 
-Adds a new role with the specified contactId to the currentr context and returns the role.
+Adds a new role with the specified contactId to the current context and returns the role.
 
 <b>Signature:</b>
 
