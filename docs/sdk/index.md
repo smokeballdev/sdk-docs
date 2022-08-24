@@ -8,5 +8,5 @@
 
 |  Package | Description |
 |  --- | --- |
-|  [smokeball-client-sdk](./smokeball-client-sdk.md) |  |
+|  [@smokeballdev/smokeball-client-sdk](./smokeball-client-sdk.md) |  |
 
