@@ -21,6 +21,6 @@ the current access token.
 
 
 ```
-const token = sdk.auth.token();
+const token = await sdk.auth.token();
 ```
 

@@ -17,6 +17,5 @@ interface UpdateContactRequest extends CreateContactRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [contactId](./smokeball-client-sdk.contacts.updatecontactrequest.contactid.md) | string | Deprecated, use id. |
 |  [id](./smokeball-client-sdk.contacts.updatecontactrequest.id.md) | string | Contact id |
 
