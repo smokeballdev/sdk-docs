@@ -31,4 +31,5 @@ After initialization, the sdk [context](https://smokeball.stoplight.io/docs/sdk-
 const context = sdk.context;
 ```
 
-After initialization other components of the api can now be utilized. See the docs on the left hand-side for more detailed information.
+Other components of the api can now be utilized.
+Navigate through the documentation on the left hand-side for more detailed information.
