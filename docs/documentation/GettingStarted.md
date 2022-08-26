@@ -6,7 +6,7 @@ tags: [Documentation]
 
 ### Installation
 
-To start, install the npm package @smokeballdev/smokeball-client-sdk](https://www.npmjs.com/package/@smokeballdev/smokeball-client-sdk) to your app.
+To start, install the npm package [@smokeballdev/smokeball-client-sdk](https://www.npmjs.com/package/@smokeballdev/smokeball-client-sdk) to your app.
 
 ### Usage
 
