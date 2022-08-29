@@ -64,13 +64,13 @@
         },
         {
           "type": "item",
-          "title": "Files",
-          "uri": "docs/sdk/smokeball-client-sdk.files.api.md"
-        },
-        {
-          "type": "item",
           "title": "Communicate",
           "uri": "docs/sdk/smokeball-client-sdk.communicate.api.md"
+        }
+        {
+          "type": "item",
+          "title": "Files",
+          "uri": "docs/sdk/smokeball-client-sdk.files.api.md"
         }
       ]
     }
