@@ -18,6 +18,7 @@ interface Api
 |  --- | --- |
 |  [add(request)](./smokeball-client-sdk.roles.api.add.md) | Adds a new role with the specified contactId to the current context and returns the role. |
 |  [get()](./smokeball-client-sdk.roles.api.get.md) | Gets the roles associated to the current context. |
+|  [observe(callback, matterId)](./smokeball-client-sdk.roles.api.observe.md) | Creates a subscription for the roles associated to the current context or the specified matter id if provided.<!-- -->Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used. |
 |  [remove(id)](./smokeball-client-sdk.roles.api.remove.md) | Removes the specified role from the current context. |
 |  [update(request)](./smokeball-client-sdk.roles.api.update.md) | Updates the role associated to the specified role id and returns the role. |
 

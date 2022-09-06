@@ -9,5 +9,5 @@ Company details of the contact.
 <b>Signature:</b>
 
 ```typescript
-company?: Person;
+company: Person;
 ```

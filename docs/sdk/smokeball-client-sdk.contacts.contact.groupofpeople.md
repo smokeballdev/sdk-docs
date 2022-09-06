@@ -9,5 +9,5 @@ Group of people details of the contact.
 <b>Signature:</b>
 
 ```typescript
-groupOfPeople?: Person;
+groupOfPeople: Person;
 ```
