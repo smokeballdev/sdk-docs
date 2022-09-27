@@ -39,6 +39,11 @@
         },
         {
           "type": "item",
+          "title": "Staff",
+          "uri": "docs/sdk/smokeball-client-sdk.staff.api.md"
+        },
+        {
+          "type": "item",
           "title": "Contacts",
           "uri": "docs/sdk/smokeball-client-sdk.contacts.api.md"
         },
