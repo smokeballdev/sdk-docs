@@ -34,13 +34,13 @@
         },
         {
           "type": "item",
-          "title": "Contacts",
-          "uri": "docs/sdk/smokeball-client-sdk.contacts.api.md"
+          "title": "Firm",
+          "uri": "docs/sdk/smokeball-client-sdk.firm.api.md"
         },
         {
           "type": "item",
-          "title": "Communicate",
-          "uri": "docs/sdk/smokeball-client-sdk.communicate.api.md"
+          "title": "Contacts",
+          "uri": "docs/sdk/smokeball-client-sdk.contacts.api.md"
         },
         {
           "type": "item",
@@ -49,8 +49,8 @@
         },
         {
           "type": "item",
-          "title": "Files",
-          "uri": "docs/sdk/smokeball-client-sdk.files.api.md"
+          "title": "Communicate",
+          "uri": "docs/sdk/smokeball-client-sdk.communicate.api.md"
         },
         {
           "type": "item",
@@ -69,8 +69,18 @@
         },
         {
           "type": "item",
+          "title": "Relationships",
+          "uri": "docs/sdk/smokeball-client-sdk.relationships.api.md"
+        },
+        {
+          "type": "item",
           "title": "Layouts",
           "uri": "docs/sdk/smokeball-client-sdk.layouts.api.md"
+        },
+        {
+          "type": "item",
+          "title": "Files",
+          "uri": "docs/sdk/smokeball-client-sdk.files.api.md"
         }
       ]
     }
