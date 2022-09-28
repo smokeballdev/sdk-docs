@@ -27,6 +27,7 @@ interface Api
 |  [layouts](./smokeball-client-sdk.common.api.layouts.md) | [layouts.Api](./smokeball-client-sdk.layouts.api.md) |  |
 |  [matterItems](./smokeball-client-sdk.common.api.matteritems.md) | [matterItems.Api](./smokeball-client-sdk.matteritems.api.md) |  |
 |  [matters](./smokeball-client-sdk.common.api.matters.md) | [matters.Api](./smokeball-client-sdk.matters.api.md) |  |
+|  [relationships](./smokeball-client-sdk.common.api.relationships.md) | [relationships.Api](./smokeball-client-sdk.relationships.api.md) |  |
 |  [roles](./smokeball-client-sdk.common.api.roles.md) | [roles.Api](./smokeball-client-sdk.roles.api.md) |  |
 |  [staff](./smokeball-client-sdk.common.api.staff.md) | [staff.Api](./smokeball-client-sdk.staff.api.md) |  |
 
