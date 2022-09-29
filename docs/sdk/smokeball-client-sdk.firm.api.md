@@ -18,4 +18,5 @@ interface Api
 |  --- | --- |
 |  [get()](./smokeball-client-sdk.firm.api.get.md) | Gets the firm associated with the current context. |
 |  [observe(callback)](./smokeball-client-sdk.firm.api.observe.md) | Creates a subscription for the firm associated with the current context.<!-- -->Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used. |
+|  [update(request)](./smokeball-client-sdk.firm.api.update.md) | Updates the firm associated with the current context. |
 

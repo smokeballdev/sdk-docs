@@ -4,7 +4,7 @@
 
 ## firm.Firm.abn property
 
-Australian Business Number of the firm (if applicable).
+Australian Business Number of the firm (only applicable for AUS).
 
 <b>Signature:</b>
 

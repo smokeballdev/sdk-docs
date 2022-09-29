@@ -4,7 +4,7 @@
 
 ## firm.Firm.acn property
 
-Australian Company Number of the firm (if applicable).
+Australian Company Number of the firm (only applicable for AUS).
 
 <b>Signature:</b>
 
