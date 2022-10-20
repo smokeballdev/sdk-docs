@@ -16,5 +16,6 @@ interface CreateContactRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [person](./smokeball-client-sdk.contacts.createcontactrequest.person.md) | [Person](./smokeball-client-sdk.contacts.person.md) | Person details of the contact. |
+|  [company?](./smokeball-client-sdk.contacts.createcontactrequest.company.md) | [Company](./smokeball-client-sdk.contacts.company.md) | <i>(Optional)</i> Company details of the contact. |
+|  [person?](./smokeball-client-sdk.contacts.createcontactrequest.person.md) | [Person](./smokeball-client-sdk.contacts.person.md) | <i>(Optional)</i> Person details of the contact. |
 

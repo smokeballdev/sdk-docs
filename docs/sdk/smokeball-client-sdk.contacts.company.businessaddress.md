@@ -9,5 +9,5 @@ Company business address.
 <b>Signature:</b>
 
 ```typescript
-businessAddress?: Address;
+businessAddress?: AddressWithDxAddress;
 ```

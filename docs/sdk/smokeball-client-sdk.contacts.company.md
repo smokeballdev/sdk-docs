@@ -16,7 +16,7 @@ interface Company
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [businessAddress?](./smokeball-client-sdk.contacts.company.businessaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Company business address. |
+|  [businessAddress?](./smokeball-client-sdk.contacts.company.businessaddress.md) | [AddressWithDxAddress](./smokeball-client-sdk.contacts.addresswithdxaddress.md) | <i>(Optional)</i> Company business address. |
 |  [fax?](./smokeball-client-sdk.contacts.company.fax.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Company fax number. |
 |  [mailingAddress?](./smokeball-client-sdk.contacts.company.mailingaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Company mailing address. |
 |  [name?](./smokeball-client-sdk.contacts.company.name.md) | string | <i>(Optional)</i> Company name. |

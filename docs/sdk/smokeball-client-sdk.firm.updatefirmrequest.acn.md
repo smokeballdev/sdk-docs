@@ -4,7 +4,7 @@
 
 ## firm.UpdateFirmRequest.acn property
 
-Australian Company Number of the firm (only applicable for AUS).
+Australian Company Number of the firm. Only supported in AUS.
 
 <b>Signature:</b>
 

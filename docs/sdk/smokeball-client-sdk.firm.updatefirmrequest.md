@@ -14,8 +14,8 @@ interface UpdateFirmRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [abn?](./smokeball-client-sdk.firm.updatefirmrequest.abn.md) | string | <i>(Optional)</i> Australian Business Number of the firm (only applicable for AUS). |
-|  [acn?](./smokeball-client-sdk.firm.updatefirmrequest.acn.md) | string | <i>(Optional)</i> Australian Company Number of the firm (only applicable for AUS). |
+|  [abn?](./smokeball-client-sdk.firm.updatefirmrequest.abn.md) | string | <i>(Optional)</i> Australian Business Number of the firm. Only supported in AUS. |
+|  [acn?](./smokeball-client-sdk.firm.updatefirmrequest.acn.md) | string | <i>(Optional)</i> Australian Company Number of the firm. Only supported in AUS. |
 |  [fax?](./smokeball-client-sdk.firm.updatefirmrequest.fax.md) | [PhoneNumber](./smokeball-client-sdk.firm.phonenumber.md) | <i>(Optional)</i> Fax number of the firm. |
 |  [mailingAddress?](./smokeball-client-sdk.firm.updatefirmrequest.mailingaddress.md) | [Address](./smokeball-client-sdk.firm.address.md) | <i>(Optional)</i> Mailing address of the firm. |
 |  [name?](./smokeball-client-sdk.firm.updatefirmrequest.name.md) | string | <i>(Optional)</i> Name of the firm. |
