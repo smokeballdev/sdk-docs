@@ -34,4 +34,6 @@
 |  [relationships](./smokeball-client-sdk.relationships.md) |  |
 |  [roles](./smokeball-client-sdk.roles.md) |  |
 |  [staff](./smokeball-client-sdk.staff.md) |  |
+|  [subTasks](./smokeball-client-sdk.subtasks.md) |  |
+|  [tasks](./smokeball-client-sdk.tasks.md) |  |
 

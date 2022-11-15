@@ -30,6 +30,8 @@ interface Api
 |  [relationships](./smokeball-client-sdk.common.api.relationships.md) | [relationships.Api](./smokeball-client-sdk.relationships.api.md) |  |
 |  [roles](./smokeball-client-sdk.common.api.roles.md) | [roles.Api](./smokeball-client-sdk.roles.api.md) |  |
 |  [staff](./smokeball-client-sdk.common.api.staff.md) | [staff.Api](./smokeball-client-sdk.staff.api.md) |  |
+|  [subTasks](./smokeball-client-sdk.common.api.subtasks.md) | [subTasks.Api](./smokeball-client-sdk.subtasks.api.md) |  |
+|  [tasks](./smokeball-client-sdk.common.api.tasks.md) | [tasks.Api](./smokeball-client-sdk.tasks.api.md) |  |
 
 ## Methods
 

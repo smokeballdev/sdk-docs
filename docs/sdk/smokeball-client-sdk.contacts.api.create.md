@@ -6,7 +6,7 @@
 
 Create a new contact and returns the contact.
 
-Currently only Person contacts are supported.
+Currently only Person and Company contacts are supported.
 
 <b>Signature:</b>
 

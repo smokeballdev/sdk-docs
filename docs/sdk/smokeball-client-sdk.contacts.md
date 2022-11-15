@@ -16,10 +16,12 @@ export declare namespace contacts
 |  Interface | Description |
 |  --- | --- |
 |  [Address](./smokeball-client-sdk.contacts.address.md) | Address details. |
+|  [AddressWithDxAddress](./smokeball-client-sdk.contacts.addresswithdxaddress.md) |  |
 |  [Api](./smokeball-client-sdk.contacts.api.md) | Entry point for contacts to Smokeball. |
 |  [Company](./smokeball-client-sdk.contacts.company.md) | Company details. |
 |  [Contact](./smokeball-client-sdk.contacts.contact.md) | The contact entity from Smokeball. |
 |  [CreateContactRequest](./smokeball-client-sdk.contacts.createcontactrequest.md) | Create contact request. |
+|  [DxAddress](./smokeball-client-sdk.contacts.dxaddress.md) |  |
 |  [GroupOfPeople](./smokeball-client-sdk.contacts.groupofpeople.md) | Group of people |
 |  [Person](./smokeball-client-sdk.contacts.person.md) | Person details. |
 |  [Phone](./smokeball-client-sdk.contacts.phone.md) | Phone details. |

@@ -22,4 +22,5 @@ export declare namespace host
 |  Interface | Description |
 |  --- | --- |
 |  [Api](./smokeball-client-sdk.host.api.md) | Entry point for the host in Smokeball. |
+|  [Version](./smokeball-client-sdk.host.version.md) |  |
 

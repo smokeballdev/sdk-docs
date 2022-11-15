@@ -87,6 +87,16 @@
           "title": "Files",
           "uri": "docs/sdk/smokeball-client-sdk.files.api.md"
         }
+        {
+          "type": "item",
+          "title": "Tasks",
+          "uri": "docs/sdk/smokeball-client-sdk.tasks.api.md"
+        },
+        {
+          "type": "item",
+          "title": "SubTasks",
+          "uri": "docs/sdk/smokeball-client-sdk.subtasks.api.md"
+        }
       ]
     }
   ]

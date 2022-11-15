@@ -9,5 +9,5 @@ Person details of the contact.
 <b>Signature:</b>
 
 ```typescript
-person: Person;
+person?: Person;
 ```

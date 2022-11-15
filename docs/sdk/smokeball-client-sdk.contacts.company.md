@@ -16,10 +16,12 @@ interface Company
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [businessAddress?](./smokeball-client-sdk.contacts.company.businessaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Company business address. |
+|  [businessAddress?](./smokeball-client-sdk.contacts.company.businessaddress.md) | [AddressWithDxAddress](./smokeball-client-sdk.contacts.addresswithdxaddress.md) | <i>(Optional)</i> Company business address. |
+|  [directorIds?](./smokeball-client-sdk.contacts.company.directorids.md) | string\[\] | <i>(Optional)</i> Company list of Director Ids |
 |  [fax?](./smokeball-client-sdk.contacts.company.fax.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Company fax number. |
 |  [mailingAddress?](./smokeball-client-sdk.contacts.company.mailingaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Company mailing address. |
 |  [name?](./smokeball-client-sdk.contacts.company.name.md) | string | <i>(Optional)</i> Company name. |
 |  [phone?](./smokeball-client-sdk.contacts.company.phone.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Company primary phone number. |
+|  [staffIds?](./smokeball-client-sdk.contacts.company.staffids.md) | string\[\] | <i>(Optional)</i> Company list of Staff Ids |
 |  [type?](./smokeball-client-sdk.contacts.company.type.md) | string | <i>(Optional)</i> Company type.<!-- -->Values for USA - Corporation, Government Agency, Limited Liability Company, Sole Proprietor, Partnership, Not-for-Profit.<!-- -->Values for AUS - Company, Sole Proprietor, Partnership, Government Department. |
 
