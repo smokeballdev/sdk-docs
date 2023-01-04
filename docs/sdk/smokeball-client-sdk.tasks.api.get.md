@@ -9,14 +9,14 @@ Gets the task associated with the specified task id.
 <b>Signature:</b>
 
 ```typescript
-get(taskId: string): Promise<Task>;
+get(id: string): Promise<Task>;
 ```
 
 ## Parameters
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  taskId | string |  |
+|  id | string |  |
 
 <b>Returns:</b>
 

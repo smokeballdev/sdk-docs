@@ -17,6 +17,7 @@ interface File
 |  [fileExtension](./smokeball-client-sdk.files.file.fileextension.md) | string | Extension of the file |
 |  [fileId](./smokeball-client-sdk.files.file.fileid.md) | string | File id. |
 |  [fileName](./smokeball-client-sdk.files.file.filename.md) | string | Name of the file, excluding file extension. |
+|  [filePath](./smokeball-client-sdk.files.file.filepath.md) | string | File path of the file. |
 |  [folderId](./smokeball-client-sdk.files.file.folderid.md) | string | Folder id, if any. |
 |  [versionId](./smokeball-client-sdk.files.file.versionid.md) | string | Version id of the file. |
 

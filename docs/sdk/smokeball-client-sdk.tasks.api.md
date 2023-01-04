@@ -19,6 +19,6 @@ interface Api
 |  [all(matterId)](./smokeball-client-sdk.tasks.api.all.md) | Gets the tasks associated with the matter in the current context or the specified matter id if provided. |
 |  [create(request)](./smokeball-client-sdk.tasks.api.create.md) | Creates a new task for the specified matter id and returns the newly created task. |
 |  [delete(id)](./smokeball-client-sdk.tasks.api.delete.md) | Marks task with the specified task id as deleted and returns the deleted task. |
-|  [get(taskId)](./smokeball-client-sdk.tasks.api.get.md) | Gets the task associated with the specified task id. |
+|  [get(id)](./smokeball-client-sdk.tasks.api.get.md) | Gets the task associated with the specified task id. |
 |  [update(request)](./smokeball-client-sdk.tasks.api.update.md) | Updates a task with the specified task id and returns the updated task. |
 

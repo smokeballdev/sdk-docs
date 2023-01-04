@@ -29,5 +29,6 @@ interface Staff
 |  [phone?](./smokeball-client-sdk.staff.staff.phone.md) | [firm.PhoneNumber](./smokeball-client-sdk.firm.phonenumber.md) | <i>(Optional)</i> Staff member's phone details. |
 |  [role](./smokeball-client-sdk.staff.staff.role.md) | string | Staff member's role. |
 |  [title](./smokeball-client-sdk.staff.staff.title.md) | string | Staff member's title. |
+|  [userId](./smokeball-client-sdk.staff.staff.userid.md) | string | Staff member's User Id, if enabled. |
 |  [versionId](./smokeball-client-sdk.staff.staff.versionid.md) | string | Version id. Can be used to determine if the staff has changed. |
 
