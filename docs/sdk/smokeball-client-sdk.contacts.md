@@ -21,6 +21,7 @@ export declare namespace contacts
 |  [Company](./smokeball-client-sdk.contacts.company.md) | Company details. |
 |  [Contact](./smokeball-client-sdk.contacts.contact.md) | The contact entity from Smokeball. |
 |  [CreateContactRequest](./smokeball-client-sdk.contacts.createcontactrequest.md) | Create contact request. |
+|  [CreateGroupOfPeopleRequest](./smokeball-client-sdk.contacts.creategroupofpeoplerequest.md) | Create group of people request. |
 |  [DxAddress](./smokeball-client-sdk.contacts.dxaddress.md) |  |
 |  [GroupOfPeople](./smokeball-client-sdk.contacts.groupofpeople.md) | Group of people |
 |  [Person](./smokeball-client-sdk.contacts.person.md) | Person details. |

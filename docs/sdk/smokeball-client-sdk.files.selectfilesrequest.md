@@ -17,4 +17,5 @@ interface SelectFilesRequest
 |  [confirmationText?](./smokeball-client-sdk.files.selectfilesrequest.confirmationtext.md) | string | <i>(Optional)</i> Confirmation text to display. Defaults to 'SELECT' if unset. |
 |  [fileSelectionLimit?](./smokeball-client-sdk.files.selectfilesrequest.fileselectionlimit.md) | number | <i>(Optional)</i> Maximum number of files that can be attached. Leave unset or set to 0 for no limit. |
 |  [matterId?](./smokeball-client-sdk.files.selectfilesrequest.matterid.md) | string | <i>(Optional)</i> Matter id. |
+|  [showEmails?](./smokeball-client-sdk.files.selectfilesrequest.showemails.md) | boolean | <i>(Optional)</i> Show emails by default. Defaults to false if unset. |
 

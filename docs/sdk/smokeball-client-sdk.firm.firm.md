@@ -25,5 +25,6 @@ interface Firm
 |  [name](./smokeball-client-sdk.firm.firm.name.md) | string | Name of the firm. |
 |  [phone?](./smokeball-client-sdk.firm.firm.phone.md) | [PhoneNumber](./smokeball-client-sdk.firm.phonenumber.md) | <i>(Optional)</i> Phone number of the firm. |
 |  [streetAddress?](./smokeball-client-sdk.firm.firm.streetaddress.md) | [Address](./smokeball-client-sdk.firm.address.md) | <i>(Optional)</i> Street address of the firm. |
+|  [stylingDetails?](./smokeball-client-sdk.firm.firm.stylingdetails.md) | [StylingDetails](./smokeball-client-sdk.firm.stylingdetails.md) | <i>(Optional)</i> Styling details of the firm. |
 |  [versionId](./smokeball-client-sdk.firm.firm.versionid.md) | string | Version id. Can be used to determine if the firm has changed. |
 

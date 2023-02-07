@@ -16,5 +16,5 @@ export declare namespace communicate
 |  Interface | Description |
 |  --- | --- |
 |  [Api](./smokeball-client-sdk.communicate.api.md) | Entry point for communicate to Smokeball. |
-|  [CreateMessageRequest](./smokeball-client-sdk.communicate.createmessagerequest.md) | Create message request. |
+|  [MessageRequest](./smokeball-client-sdk.communicate.messagerequest.md) | Create message request. |
 

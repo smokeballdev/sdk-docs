@@ -19,5 +19,6 @@ export declare namespace firm
 |  [Api](./smokeball-client-sdk.firm.api.md) | Entry point for firm to Smokeball. |
 |  [Firm](./smokeball-client-sdk.firm.firm.md) | The firm entity from Smokeball. |
 |  [PhoneNumber](./smokeball-client-sdk.firm.phonenumber.md) |  |
+|  [StylingDetails](./smokeball-client-sdk.firm.stylingdetails.md) |  |
 |  [UpdateFirmRequest](./smokeball-client-sdk.firm.updatefirmrequest.md) |  |
 

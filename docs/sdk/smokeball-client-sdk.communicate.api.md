@@ -17,4 +17,5 @@ interface Api
 |  Method | Description |
 |  --- | --- |
 |  [createMessage(request)](./smokeball-client-sdk.communicate.api.createmessage.md) | Opens pre-populated communicate message window. |
+|  [sendMessage(request)](./smokeball-client-sdk.communicate.api.sendmessage.md) | Sends communicate message. |
 
