@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-staff: staff.Api;
+staff: schema.staff.Api;
 ```

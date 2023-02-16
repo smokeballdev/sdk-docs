@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-relationships: relationships.Api;
+relationships: schema.relationships.Api;
 ```

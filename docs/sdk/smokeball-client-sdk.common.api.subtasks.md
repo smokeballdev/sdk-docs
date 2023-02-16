@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-subTasks: subTasks.Api;
+subTasks: schema.subTasks.Api;
 ```

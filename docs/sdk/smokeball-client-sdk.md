@@ -27,6 +27,7 @@
 |  [correspondence](./smokeball-client-sdk.correspondence.md) |  |
 |  [files](./smokeball-client-sdk.files.md) |  |
 |  [firm](./smokeball-client-sdk.firm.md) |  |
+|  [forms](./smokeball-client-sdk.forms.md) |  |
 |  [host](./smokeball-client-sdk.host.md) |  |
 |  [layouts](./smokeball-client-sdk.layouts.md) |  |
 |  [matterItems](./smokeball-client-sdk.matteritems.md) |  |

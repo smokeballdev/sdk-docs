@@ -16,5 +16,6 @@ interface Api
 
 |  Method | Description |
 |  --- | --- |
-|  [token()](./smokeball-client-sdk.auth.api.token.md) | Retrieves the authentication token. Only available to trusted clients. |
+|  [idToken()](./smokeball-client-sdk.auth.api.idtoken.md) | Retrieves the id token. This token can be used to access the api. Only available to trusted clients. |
+|  [token()](./smokeball-client-sdk.auth.api.token.md) | Retrieves the access token. Only available to trusted clients. |
 

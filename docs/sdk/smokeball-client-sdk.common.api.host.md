@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-host: host.Api;
+host: schema.host.Api;
 ```

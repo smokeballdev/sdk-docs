@@ -4,7 +4,7 @@
 
 ## auth.Api.token() method
 
-Retrieves the authentication token. Only available to trusted clients.
+Retrieves the access token. Only available to trusted clients.
 
 <b>Signature:</b>
 

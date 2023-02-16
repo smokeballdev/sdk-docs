@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-matterItems: matterItems.Api;
+matterItems: schema.matterItems.Api;
 ```

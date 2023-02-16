@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-layouts: layouts.Api;
+layouts: schema.layouts.Api;
 ```

@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-auth: auth.Api;
+auth: schema.auth.Api;
 ```

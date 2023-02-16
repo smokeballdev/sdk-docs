@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-correspondence: correspondence.Api;
+correspondence: schema.correspondence.Api;
 ```

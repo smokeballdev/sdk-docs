@@ -16,22 +16,23 @@ interface Api
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [auth](./smokeball-client-sdk.common.api.auth.md) | [auth.Api](./smokeball-client-sdk.auth.api.md) |  |
-|  [communicate](./smokeball-client-sdk.common.api.communicate.md) | [communicate.Api](./smokeball-client-sdk.communicate.api.md) |  |
-|  [contacts](./smokeball-client-sdk.common.api.contacts.md) | [contacts.Api](./smokeball-client-sdk.contacts.api.md) |  |
+|  [auth](./smokeball-client-sdk.common.api.auth.md) | schema.[auth.Api](./smokeball-client-sdk.auth.api.md) |  |
+|  [communicate](./smokeball-client-sdk.common.api.communicate.md) | schema.[communicate.Api](./smokeball-client-sdk.communicate.api.md) |  |
+|  [contacts](./smokeball-client-sdk.common.api.contacts.md) | schema.[contacts.Api](./smokeball-client-sdk.contacts.api.md) |  |
 |  [context](./smokeball-client-sdk.common.api.context.md) | [Context](./smokeball-client-sdk.common.context.md) |  |
-|  [correspondence](./smokeball-client-sdk.common.api.correspondence.md) | [correspondence.Api](./smokeball-client-sdk.correspondence.api.md) |  |
-|  [files](./smokeball-client-sdk.common.api.files.md) | [files.Api](./smokeball-client-sdk.files.api.md) |  |
-|  [firm](./smokeball-client-sdk.common.api.firm.md) | [firm.Api](./smokeball-client-sdk.firm.api.md) |  |
-|  [host](./smokeball-client-sdk.common.api.host.md) | [host.Api](./smokeball-client-sdk.host.api.md) |  |
-|  [layouts](./smokeball-client-sdk.common.api.layouts.md) | [layouts.Api](./smokeball-client-sdk.layouts.api.md) |  |
-|  [matterItems](./smokeball-client-sdk.common.api.matteritems.md) | [matterItems.Api](./smokeball-client-sdk.matteritems.api.md) |  |
-|  [matters](./smokeball-client-sdk.common.api.matters.md) | [matters.Api](./smokeball-client-sdk.matters.api.md) |  |
-|  [relationships](./smokeball-client-sdk.common.api.relationships.md) | [relationships.Api](./smokeball-client-sdk.relationships.api.md) |  |
-|  [roles](./smokeball-client-sdk.common.api.roles.md) | [roles.Api](./smokeball-client-sdk.roles.api.md) |  |
-|  [staff](./smokeball-client-sdk.common.api.staff.md) | [staff.Api](./smokeball-client-sdk.staff.api.md) |  |
-|  [subTasks](./smokeball-client-sdk.common.api.subtasks.md) | [subTasks.Api](./smokeball-client-sdk.subtasks.api.md) |  |
-|  [tasks](./smokeball-client-sdk.common.api.tasks.md) | [tasks.Api](./smokeball-client-sdk.tasks.api.md) |  |
+|  [correspondence](./smokeball-client-sdk.common.api.correspondence.md) | schema.[correspondence.Api](./smokeball-client-sdk.correspondence.api.md) |  |
+|  [files](./smokeball-client-sdk.common.api.files.md) | schema.[files.Api](./smokeball-client-sdk.files.api.md) |  |
+|  [firm](./smokeball-client-sdk.common.api.firm.md) | schema.[firm.Api](./smokeball-client-sdk.firm.api.md) |  |
+|  [forms](./smokeball-client-sdk.common.api.forms.md) | schema.[forms.Api](./smokeball-client-sdk.forms.api.md) |  |
+|  [host](./smokeball-client-sdk.common.api.host.md) | schema.[host.Api](./smokeball-client-sdk.host.api.md) |  |
+|  [layouts](./smokeball-client-sdk.common.api.layouts.md) | schema.[layouts.Api](./smokeball-client-sdk.layouts.api.md) |  |
+|  [matterItems](./smokeball-client-sdk.common.api.matteritems.md) | schema.[matterItems.Api](./smokeball-client-sdk.matteritems.api.md) |  |
+|  [matters](./smokeball-client-sdk.common.api.matters.md) | schema.[matters.Api](./smokeball-client-sdk.matters.api.md) |  |
+|  [relationships](./smokeball-client-sdk.common.api.relationships.md) | schema.[relationships.Api](./smokeball-client-sdk.relationships.api.md) |  |
+|  [roles](./smokeball-client-sdk.common.api.roles.md) | schema.[roles.Api](./smokeball-client-sdk.roles.api.md) |  |
+|  [staff](./smokeball-client-sdk.common.api.staff.md) | schema.[staff.Api](./smokeball-client-sdk.staff.api.md) |  |
+|  [subTasks](./smokeball-client-sdk.common.api.subtasks.md) | schema.[subTasks.Api](./smokeball-client-sdk.subtasks.api.md) |  |
+|  [tasks](./smokeball-client-sdk.common.api.tasks.md) | schema.[tasks.Api](./smokeball-client-sdk.tasks.api.md) |  |
 
 ## Methods
 

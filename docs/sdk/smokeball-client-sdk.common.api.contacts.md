@@ -7,5 +7,5 @@
 <b>Signature:</b>
 
 ```typescript
-contacts: contacts.Api;
+contacts: schema.contacts.Api;
 ```
