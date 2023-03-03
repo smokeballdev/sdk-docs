@@ -22,4 +22,5 @@ interface Role
 |  [isOtherSide](./smokeball-client-sdk.roles.role.isotherside.md) | boolean | Returns true if the role is an otherside. |
 |  [name](./smokeball-client-sdk.roles.role.name.md) | string | Name of the role. |
 |  [representativeIds](./smokeball-client-sdk.roles.role.representativeids.md) | string\[\] | Representative ids on the role. |
+|  [versionId](./smokeball-client-sdk.roles.role.versionid.md) | string | Version id. |
 

@@ -17,5 +17,4 @@ interface Roles
 |  Property | Type | Description |
 |  --- | --- | --- |
 |  [roles](./smokeball-client-sdk.roles.roles.roles.md) | [Role](./smokeball-client-sdk.roles.role.md)<!-- -->\[\] | The roles on the matter. |
-|  [versionId](./smokeball-client-sdk.roles.roles.versionid.md) | string | Version id. |
 
