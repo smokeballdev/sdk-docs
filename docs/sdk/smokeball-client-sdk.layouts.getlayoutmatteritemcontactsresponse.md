@@ -16,5 +16,5 @@ interface GetLayoutMatterItemContactsResponse
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [layoutContacts](./smokeball-client-sdk.layouts.getlayoutmatteritemcontactsresponse.layoutcontacts.md) | [LayoutContact](./smokeball-client-sdk.layouts.layoutcontact.md)<!-- -->\[\] | layout contacts. |
+|  [layoutContacts](./smokeball-client-sdk.layouts.getlayoutmatteritemcontactsresponse.layoutcontacts.md) | [LayoutContact](./smokeball-client-sdk.layouts.layoutcontact.md)<!-- -->\[\] | Layout contacts. |
 

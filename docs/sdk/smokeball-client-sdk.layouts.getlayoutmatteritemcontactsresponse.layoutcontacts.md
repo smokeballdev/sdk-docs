@@ -4,7 +4,7 @@
 
 ## layouts.GetLayoutMatterItemContactsResponse.layoutContacts property
 
-layout contacts.
+Layout contacts.
 
 <b>Signature:</b>
 
