@@ -38,3 +38,9 @@
 |  [subTasks](./smokeball-client-sdk.subtasks.md) |  |
 |  [tasks](./smokeball-client-sdk.tasks.md) |  |
 
+## Variables
+
+|  Variable | Description |
+|  --- | --- |
+|  [\_default](./smokeball-client-sdk._default.md) |  |
+

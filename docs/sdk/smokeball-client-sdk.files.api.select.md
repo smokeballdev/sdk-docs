@@ -9,7 +9,7 @@ Opens a file picker to select files from a matter. Returns the selected files.
 <b>Signature:</b>
 
 ```typescript
-select(request: SelectFilesRequest): Promise<files.File[]>;
+select(request: SelectFilesRequest): Promise<File[]>;
 ```
 
 ## Parameters
@@ -20,7 +20,7 @@ select(request: SelectFilesRequest): Promise<files.File[]>;
 
 <b>Returns:</b>
 
-Promise&lt;[files.File](./smokeball-client-sdk.files.file.md)<!-- -->\[\]&gt;
+Promise&lt;[File](./smokeball-client-sdk.files.file.md)<!-- -->\[\]&gt;
 
 ## Example
 

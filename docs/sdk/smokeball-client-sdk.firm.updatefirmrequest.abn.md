@@ -4,8 +4,6 @@
 
 ## firm.UpdateFirmRequest.abn property
 
-Australian Business Number of the firm. Only supported in AUS.
-
 <b>Signature:</b>
 
 ```typescript

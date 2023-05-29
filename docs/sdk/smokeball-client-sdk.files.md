@@ -17,6 +17,10 @@ export declare namespace files
 |  --- | --- |
 |  [Api](./smokeball-client-sdk.files.api.md) | Entry point for files in Smokeball. |
 |  [File](./smokeball-client-sdk.files.file.md) |  |
+|  [FileDetails](./smokeball-client-sdk.files.filedetails.md) |  |
 |  [FileRequest](./smokeball-client-sdk.files.filerequest.md) | File request. |
+|  [GetMatterFilesRequest](./smokeball-client-sdk.files.getmatterfilesrequest.md) |  |
+|  [GetMatterFilesResponse](./smokeball-client-sdk.files.getmatterfilesresponse.md) |  |
+|  [KeyValuePair](./smokeball-client-sdk.files.keyvaluepair.md) |  |
 |  [SelectFilesRequest](./smokeball-client-sdk.files.selectfilesrequest.md) |  |
 

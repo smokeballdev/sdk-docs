@@ -6,9 +6,11 @@
 
 Company type.
 
-Values for USA - Corporation, Government Agency, Limited Liability Company, Sole Proprietor, Partnership, Not-for-Profit.
+Possible values for US: Corporation, Government Agency, Limited Liability Company, Sole Proprietor, Partnership, Not-for-Profit
 
-Values for AUS - Company, Sole Proprietor, Partnership, Government Department.
+Possible values for AU: Company, Sole Proprietor, Partnership, Government Department
+
+Possible values for UK: Company, Sole Trader, Partnership, Limited Liability Partnership, Government Department
 
 <b>Signature:</b>
 

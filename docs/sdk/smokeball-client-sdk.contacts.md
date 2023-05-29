@@ -20,9 +20,12 @@ export declare namespace contacts
 |  [Api](./smokeball-client-sdk.contacts.api.md) | Entry point for contacts to Smokeball. |
 |  [Company](./smokeball-client-sdk.contacts.company.md) | Company details. |
 |  [Contact](./smokeball-client-sdk.contacts.contact.md) | The contact entity from Smokeball. |
+|  [ContactSearchTerm](./smokeball-client-sdk.contacts.contactsearchterm.md) |  |
 |  [CreateContactRequest](./smokeball-client-sdk.contacts.createcontactrequest.md) | Create contact request. |
 |  [CreateGroupOfPeopleRequest](./smokeball-client-sdk.contacts.creategroupofpeoplerequest.md) | Create group of people request. |
 |  [DxAddress](./smokeball-client-sdk.contacts.dxaddress.md) |  |
+|  [GetContactsRequest](./smokeball-client-sdk.contacts.getcontactsrequest.md) |  |
+|  [GetContactsResponse](./smokeball-client-sdk.contacts.getcontactsresponse.md) |  |
 |  [GroupOfPeople](./smokeball-client-sdk.contacts.groupofpeople.md) | Group of people |
 |  [Person](./smokeball-client-sdk.contacts.person.md) | Person details. |
 |  [Phone](./smokeball-client-sdk.contacts.phone.md) | Phone details. |

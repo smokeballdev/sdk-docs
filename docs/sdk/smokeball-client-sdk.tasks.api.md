@@ -20,5 +20,7 @@ interface Api
 |  [create(request)](./smokeball-client-sdk.tasks.api.create.md) | Creates a new task for the specified matter id and returns the newly created task. |
 |  [delete(id)](./smokeball-client-sdk.tasks.api.delete.md) | Marks task with the specified task id as deleted and returns the deleted task. |
 |  [get(id)](./smokeball-client-sdk.tasks.api.get.md) | Gets the task associated with the specified task id. |
+|  [open(taskId)](./smokeball-client-sdk.tasks.api.open.md) | Opens the specified task. |
+|  [openNew(request)](./smokeball-client-sdk.tasks.api.opennew.md) | Opens pre-populated task window. |
 |  [update(request)](./smokeball-client-sdk.tasks.api.update.md) | Updates a task with the specified task id and returns the updated task. |
 

@@ -22,5 +22,6 @@ interface Matter
 |  [matterTypeId](./smokeball-client-sdk.matters.matter.mattertypeid.md) | string | MatterType associated to the matter. |
 |  [number](./smokeball-client-sdk.matters.matter.number.md) | string | Matter number. |
 |  [otherSideIds](./smokeball-client-sdk.matters.matter.othersideids.md) | string\[\] | OtherSide(s) associated to the matter. |
+|  [reLine](./smokeball-client-sdk.matters.matter.reline.md) | string | ReLine associated to the matter. |
 |  [status](./smokeball-client-sdk.matters.matter.status.md) | string | Matter status. |
 

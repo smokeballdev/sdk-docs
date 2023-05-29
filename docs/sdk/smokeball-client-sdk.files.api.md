@@ -16,6 +16,7 @@ interface Api
 
 |  Method | Description |
 |  --- | --- |
+|  [getMany(request)](./smokeball-client-sdk.files.api.getmany.md) | Returns a page of files from the given Matter and Folder. |
 |  [open(request)](./smokeball-client-sdk.files.api.open.md) | Opens the specified file in the native app. |
 |  [select(request)](./smokeball-client-sdk.files.api.select.md) | Opens a file picker to select files from a matter. Returns the selected files. |
 

@@ -16,8 +16,8 @@ interface Firm
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [abn](./smokeball-client-sdk.firm.firm.abn.md) | string | Australian Business Number of the firm. Only supported in AUS. |
-|  [acn](./smokeball-client-sdk.firm.firm.acn.md) | string | Australian Company Number of the firm. Only supported in AUS. |
+|  [abn](./smokeball-client-sdk.firm.firm.abn.md) | string |  |
+|  [acn](./smokeball-client-sdk.firm.firm.acn.md) | string |  |
 |  [fax?](./smokeball-client-sdk.firm.firm.fax.md) | [PhoneNumber](./smokeball-client-sdk.firm.phonenumber.md) | <i>(Optional)</i> Fax number of the firm. |
 |  [id](./smokeball-client-sdk.firm.firm.id.md) | string | Firm id. |
 |  [logo](./smokeball-client-sdk.firm.firm.logo.md) | string | Logo of the firm. |

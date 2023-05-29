@@ -17,8 +17,8 @@ export declare namespace tasks
 |  --- | --- |
 |  [Api](./smokeball-client-sdk.tasks.api.md) | Entry point for task to Smokeball. |
 |  [CreateTaskRequest](./smokeball-client-sdk.tasks.createtaskrequest.md) |  |
-|  [GetTaskRequest](./smokeball-client-sdk.tasks.gettaskrequest.md) |  |
 |  [GetTasksRequest](./smokeball-client-sdk.tasks.gettasksrequest.md) |  |
+|  [OpenNewRequest](./smokeball-client-sdk.tasks.opennewrequest.md) |  |
 |  [Task](./smokeball-client-sdk.tasks.task.md) | The task entity from Smokeball. |
 |  [UpdateTaskRequest](./smokeball-client-sdk.tasks.updatetaskrequest.md) |  |
 

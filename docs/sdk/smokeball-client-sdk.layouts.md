@@ -17,6 +17,8 @@ export declare namespace layouts
 |  --- | --- |
 |  [AddLayoutMatterItemRequest](./smokeball-client-sdk.layouts.addlayoutmatteritemrequest.md) | Add layout request. |
 |  [Api](./smokeball-client-sdk.layouts.api.md) | Entry point for layouts to Smokeball. |
+|  [GetLayoutMatterItemContactsResponse](./smokeball-client-sdk.layouts.getlayoutmatteritemcontactsresponse.md) | Get contacts for layout item response. |
+|  [LayoutContact](./smokeball-client-sdk.layouts.layoutcontact.md) | The layout contact entity from Smokeball. |
 |  [LayoutDesign](./smokeball-client-sdk.layouts.layoutdesign.md) | Layout design id. This is the template that a layout item is built off. |
 |  [LayoutMatter](./smokeball-client-sdk.layouts.layoutmatter.md) | The layout entity from Smokeball. |
 |  [LayoutMatterItem](./smokeball-client-sdk.layouts.layoutmatteritem.md) | The layout item entity from Smokeball. |

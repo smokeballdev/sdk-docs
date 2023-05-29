@@ -17,6 +17,8 @@ interface Api
 |  Method | Description |
 |  --- | --- |
 |  [get(matterId)](./smokeball-client-sdk.matters.api.get.md) | Gets the matter associated to the current context or the specified matter id if provided. |
+|  [getMany(request)](./smokeball-client-sdk.matters.api.getmany.md) | Get matters associated with matter ids provided. |
 |  [observe(callback, matterId)](./smokeball-client-sdk.matters.api.observe.md) | Creates a subscription for the matter associated to the current context or the specified matter id if provided.<!-- -->Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used. |
 |  [open(matterId)](./smokeball-client-sdk.matters.api.open.md) | Opens the matter associated to the current context (brings it into view) or the specified matter id if provided. |
+|  [select()](./smokeball-client-sdk.matters.api.select.md) | Opens a matter picker to select a matter. Returns the selected matter id. |
 
