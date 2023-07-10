@@ -29,5 +29,13 @@ export declare namespace contacts
 |  [GroupOfPeople](./smokeball-client-sdk.contacts.groupofpeople.md) | Group of people |
 |  [Person](./smokeball-client-sdk.contacts.person.md) | Person details. |
 |  [Phone](./smokeball-client-sdk.contacts.phone.md) | Phone details. |
+|  [Trust](./smokeball-client-sdk.contacts.trust.md) | Trust |
+|  [Trustee](./smokeball-client-sdk.contacts.trustee.md) |  |
 |  [UpdateContactRequest](./smokeball-client-sdk.contacts.updatecontactrequest.md) | Update contact request. |
+
+## Type Aliases
+
+|  Type Alias | Description |
+|  --- | --- |
+|  [CreateTrustRequest](./smokeball-client-sdk.contacts.createtrustrequest.md) | Create trust request. |
 

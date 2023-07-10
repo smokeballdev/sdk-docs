@@ -19,6 +19,7 @@ interface Api
 |  [add(request)](./smokeball-client-sdk.layouts.api.add.md) | Adds a new layout matter item to a matter. |
 |  [get(matterId)](./smokeball-client-sdk.layouts.api.get.md) | Gets the layout associated to the current context or the specified matter id if provided. |
 |  [getContacts(itemId)](./smokeball-client-sdk.layouts.api.getcontacts.md) | Gets the contacts associated to the provided item id and matter id of the current context. |
+|  [getItem(itemId)](./smokeball-client-sdk.layouts.api.getitem.md) | Gets a layout item associated to the current context. |
 |  [observe(callback, matterId)](./smokeball-client-sdk.layouts.api.observe.md) | Creates a subscription for the layout matter associated to the current context or the specified matter id if provided.<!-- -->Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used. |
 |  [remove(request)](./smokeball-client-sdk.layouts.api.remove.md) | Removes a layout matter item from a matter. |
 |  [update(request)](./smokeball-client-sdk.layouts.api.update.md) | Updates the layout associated to the specified matter id and returns the layout. |
