@@ -18,6 +18,7 @@ enum MatterTabs
 |  Communicate | <code>8</code> |  |
 |  Emails | <code>1</code> |  |
 |  Events | <code>2</code> |  |
+|  FamilyProperty | <code>15</code> |  |
 |  InfoTrack | <code>5</code> |  |
 |  Intake | <code>14</code> |  |
 |  Matter | <code>0</code> |  |
