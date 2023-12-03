@@ -16,6 +16,7 @@ interface Api
 
 |  Method | Description |
 |  --- | --- |
+|  [create(request)](./smokeball-client-sdk.matters.api.create.md) | Opens a matter window with a newly created matter or lead and returns the matter. |
 |  [get(matterId)](./smokeball-client-sdk.matters.api.get.md) | Gets the matter associated to the current context or the specified matter id if provided. |
 |  [getMany(request)](./smokeball-client-sdk.matters.api.getmany.md) | Get matters associated with matter ids provided. |
 |  [observe(callback, matterId)](./smokeball-client-sdk.matters.api.observe.md) | Creates a subscription for the matter associated to the current context or the specified matter id if provided.<!-- -->Only one subscription will be made per session. Regardless of how many times this function is called, the last registered callback will be used. |

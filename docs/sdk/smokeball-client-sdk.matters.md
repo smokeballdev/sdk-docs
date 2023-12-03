@@ -16,6 +16,7 @@ export declare namespace matters
 |  Interface | Description |
 |  --- | --- |
 |  [Api](./smokeball-client-sdk.matters.api.md) | Entry point for matters to Smokeball. |
+|  [CreateMatterRequest](./smokeball-client-sdk.matters.creatematterrequest.md) |  |
 |  [GetMattersRequest](./smokeball-client-sdk.matters.getmattersrequest.md) |  |
 |  [GetMattersResponse](./smokeball-client-sdk.matters.getmattersresponse.md) |  |
 |  [Matter](./smokeball-client-sdk.matters.matter.md) | The matter entity from Smokeball. |

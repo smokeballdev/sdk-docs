@@ -23,10 +23,12 @@ export declare namespace contacts
 |  [ContactSearchTerm](./smokeball-client-sdk.contacts.contactsearchterm.md) |  |
 |  [CreateContactRequest](./smokeball-client-sdk.contacts.createcontactrequest.md) | Create contact request. |
 |  [CreateGroupOfPeopleRequest](./smokeball-client-sdk.contacts.creategroupofpeoplerequest.md) | Create group of people request. |
+|  [DeathDetails](./smokeball-client-sdk.contacts.deathdetails.md) | Death details. |
 |  [DxAddress](./smokeball-client-sdk.contacts.dxaddress.md) |  |
 |  [GetContactsRequest](./smokeball-client-sdk.contacts.getcontactsrequest.md) |  |
 |  [GetContactsResponse](./smokeball-client-sdk.contacts.getcontactsresponse.md) |  |
 |  [GroupOfPeople](./smokeball-client-sdk.contacts.groupofpeople.md) | Group of people |
+|  [PassportDetails](./smokeball-client-sdk.contacts.passportdetails.md) | Passport details. |
 |  [Person](./smokeball-client-sdk.contacts.person.md) | Person details. |
 |  [Phone](./smokeball-client-sdk.contacts.phone.md) | Phone details. |
 |  [Trust](./smokeball-client-sdk.contacts.trust.md) | Trust |

@@ -24,11 +24,7 @@ interface Person
 |  [birthPlace?](./smokeball-client-sdk.contacts.person.birthplace.md) | string | <i>(Optional)</i> Person place of birth. |
 |  [birthState?](./smokeball-client-sdk.contacts.person.birthstate.md) | string | <i>(Optional)</i> Person state of birth. |
 |  [cell?](./smokeball-client-sdk.contacts.person.cell.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Person cell phone number. |
-|  [deathCountry?](./smokeball-client-sdk.contacts.person.deathcountry.md) | string | <i>(Optional)</i> Person country of death. |
-|  [deathCounty?](./smokeball-client-sdk.contacts.person.deathcounty.md) | string | <i>(Optional)</i> Person county of death.<!-- -->Only supported in US. |
-|  [deathDate?](./smokeball-client-sdk.contacts.person.deathdate.md) | Date | <i>(Optional)</i> Person date of death. |
-|  [deathPlace?](./smokeball-client-sdk.contacts.person.deathplace.md) | string | <i>(Optional)</i> Person place of death. |
-|  [deathState?](./smokeball-client-sdk.contacts.person.deathstate.md) | string | <i>(Optional)</i> Person state of death.<!-- -->Only supported in AU and US. |
+|  [deathDetails?](./smokeball-client-sdk.contacts.person.deathdetails.md) | [DeathDetails](./smokeball-client-sdk.contacts.deathdetails.md) | <i>(Optional)</i> Person death details. |
 |  [email?](./smokeball-client-sdk.contacts.person.email.md) | string | <i>(Optional)</i> Person email address. |
 |  [fax?](./smokeball-client-sdk.contacts.person.fax.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Person cell phone number. |
 |  [firstName?](./smokeball-client-sdk.contacts.person.firstname.md) | string | <i>(Optional)</i> Person first name. |
@@ -37,11 +33,7 @@ interface Person
 |  [lastName?](./smokeball-client-sdk.contacts.person.lastname.md) | string | <i>(Optional)</i> Person last name. |
 |  [middleName?](./smokeball-client-sdk.contacts.person.middlename.md) | string | <i>(Optional)</i> Person middle name. |
 |  [notes?](./smokeball-client-sdk.contacts.person.notes.md) | string | <i>(Optional)</i> Person notes. |
-|  [passportExpireDate?](./smokeball-client-sdk.contacts.person.passportexpiredate.md) | Date | <i>(Optional)</i> Person passport expiry date. |
-|  [passportIssueAuthority?](./smokeball-client-sdk.contacts.person.passportissueauthority.md) | string | <i>(Optional)</i> Person passport issuing authority.<!-- -->Only supported in UK. |
-|  [passportIssueCountry?](./smokeball-client-sdk.contacts.person.passportissuecountry.md) | string | <i>(Optional)</i> Person passport country of issue. |
-|  [passportIssueDate?](./smokeball-client-sdk.contacts.person.passportissuedate.md) | Date | <i>(Optional)</i> Person passport issue date. |
-|  [passportNumber?](./smokeball-client-sdk.contacts.person.passportnumber.md) | string | <i>(Optional)</i> Person passport number. |
+|  [passportDetails?](./smokeball-client-sdk.contacts.person.passportdetails.md) | [PassportDetails](./smokeball-client-sdk.contacts.passportdetails.md) | <i>(Optional)</i> Person passport details. |
 |  [phone?](./smokeball-client-sdk.contacts.person.phone.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Person primary phone number. |
 |  [previousNames?](./smokeball-client-sdk.contacts.person.previousnames.md) | string | <i>(Optional)</i> Person previous names. |
 |  [residentialAddress?](./smokeball-client-sdk.contacts.person.residentialaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Person residential address. |
