@@ -14,6 +14,9 @@ interface OpenRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
+|  [height?](./smokeball-client-sdk.host.openrequest.height.md) | number | <i>(Optional)</i> |
+|  [stateKey?](./smokeball-client-sdk.host.openrequest.statekey.md) | string | <i>(Optional)</i> |
 |  [title](./smokeball-client-sdk.host.openrequest.title.md) | string |  |
 |  [url](./smokeball-client-sdk.host.openrequest.url.md) | string |  |
+|  [width?](./smokeball-client-sdk.host.openrequest.width.md) | number | <i>(Optional)</i> |
 

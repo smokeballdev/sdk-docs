@@ -9,8 +9,15 @@ Closes the host in the native app. When being called in the native app, this act
 <b>Signature:</b>
 
 ```typescript
-close(): void;
+close(request?: CloseRequest): void;
 ```
+
+## Parameters
+
+|  Parameter | Type | Description |
+|  --- | --- | --- |
+|  request | [CloseRequest](./smokeball-client-sdk.host.closerequest.md) | <i>(Optional)</i> |
+
 <b>Returns:</b>
 
 void

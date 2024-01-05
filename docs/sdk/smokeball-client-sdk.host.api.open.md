@@ -4,7 +4,7 @@
 
 ## host.Api.open() method
 
-Opens the provided url into a new embedded browser.
+Opens the provided url into a new browser window.
 
 <b>Signature:</b>
 
@@ -30,6 +30,6 @@ const request: OpenRequest = {
    url: 'https://www.google.com/',
    title: 'title'
 };
-const version = await sdk.host.open(request);
+await sdk.host.open(request);
 ```
 
