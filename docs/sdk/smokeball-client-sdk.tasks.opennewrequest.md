@@ -17,6 +17,7 @@ interface OpenNewRequest
 |  [assigneeIds?](./smokeball-client-sdk.tasks.opennewrequest.assigneeids.md) | string\[\] | <i>(Optional)</i> List of assigned staff member ids. |
 |  [dueDate?](./smokeball-client-sdk.tasks.opennewrequest.duedate.md) | string | <i>(Optional)</i> Due date |
 |  [duration?](./smokeball-client-sdk.tasks.opennewrequest.duration.md) | string | <i>(Optional)</i> Duration of the task in ISO 8601 duration format. |
+|  [fileIds?](./smokeball-client-sdk.tasks.opennewrequest.fileids.md) | string\[\] | <i>(Optional)</i> List of associated file ids. |
 |  [matterId](./smokeball-client-sdk.tasks.opennewrequest.matterid.md) | string | Associated matter id. |
 |  [note?](./smokeball-client-sdk.tasks.opennewrequest.note.md) | string | <i>(Optional)</i> Notes on the task. |
 |  [subject](./smokeball-client-sdk.tasks.opennewrequest.subject.md) | string | Short description of the task. |

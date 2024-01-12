@@ -30,6 +30,6 @@ const request: OpenRequest = {
    url: 'https://www.google.com/',
    title: 'title'
 };
-await sdk.host.open(request);
+sdk.host.open(request);
 ```
 

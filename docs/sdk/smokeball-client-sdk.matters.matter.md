@@ -16,12 +16,16 @@ interface Matter
 
 |  Property | Type | Description |
 |  --- | --- | --- |
+|  [attorneyResponsibleId](./smokeball-client-sdk.matters.matter.attorneyresponsibleid.md) | string | Matter attorney responsible. |
 |  [clientIds](./smokeball-client-sdk.matters.matter.clientids.md) | string\[\] | Client(s) associated to the matter. |
+|  [description](./smokeball-client-sdk.matters.matter.description.md) | string | Matter description. |
 |  [id](./smokeball-client-sdk.matters.matter.id.md) | string | Matter id. |
 |  [isLead](./smokeball-client-sdk.matters.matter.islead.md) | boolean | Returns true if the matter is a lead. |
 |  [matterTypeId](./smokeball-client-sdk.matters.matter.mattertypeid.md) | string | MatterType associated to the matter. |
 |  [number](./smokeball-client-sdk.matters.matter.number.md) | string | Matter number. |
 |  [otherSideIds](./smokeball-client-sdk.matters.matter.othersideids.md) | string\[\] | OtherSide(s) associated to the matter. |
+|  [personAssistingId](./smokeball-client-sdk.matters.matter.personassistingid.md) | string | Matter person assisting. |
 |  [reLine](./smokeball-client-sdk.matters.matter.reline.md) | string | ReLine associated to the matter. |
 |  [status](./smokeball-client-sdk.matters.matter.status.md) | string | Matter status. |
+|  [supervisorId](./smokeball-client-sdk.matters.matter.supervisorid.md) | string | Matter supervisor. |
 

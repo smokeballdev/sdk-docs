@@ -4,7 +4,7 @@
 
 ## files.FileRequest.matterId property
 
-Matter id.
+Matter id (deprecated - no longer used)
 
 <b>Signature:</b>
 

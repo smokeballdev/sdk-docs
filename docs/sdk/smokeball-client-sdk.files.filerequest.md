@@ -17,5 +17,6 @@ interface FileRequest
 |  Property | Type | Description |
 |  --- | --- | --- |
 |  [id](./smokeball-client-sdk.files.filerequest.id.md) | string | File id. |
-|  [matterId?](./smokeball-client-sdk.files.filerequest.matterid.md) | string | <i>(Optional)</i> Matter id. |
+|  [matterId?](./smokeball-client-sdk.files.filerequest.matterid.md) | string | <i>(Optional)</i> Matter id (deprecated - no longer used) |
+|  [versionId?](./smokeball-client-sdk.files.filerequest.versionid.md) | string | <i>(Optional)</i> File version id. |
 
