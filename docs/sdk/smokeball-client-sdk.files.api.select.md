@@ -30,8 +30,6 @@ const request: SelectFilesRequest = {
  confirmationText: 'SELECT',
  fileSelectionLimit: 2,
  showEmails: false,
- // The matter id can be left empty if the file is in the same context.
- matterId: '410f2b2b-7adf-436e-a5fd-dab1733d3fba'
 }
 sdk.files.select(request);
 ```

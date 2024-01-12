@@ -28,8 +28,7 @@ void
 ```
 const request: FileRequest = {
  id: 'da06e491-3a68-4da1-be1c-7e734491bbe6',
- // The matter id can be left empty if the file is in the same context.
- matterId: '410f2b2b-7adf-436e-a5fd-dab1733d3fba'
+ versionId: '410f2b2b-7adf-436e-a5fd-dab1733d3fba'
 }
 sdk.files.open(request);
 ```
