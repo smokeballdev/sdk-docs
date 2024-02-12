@@ -9,5 +9,5 @@ Matter supervisor.
 <b>Signature:</b>
 
 ```typescript
-supervisorId: string;
+supervisorId?: string;
 ```

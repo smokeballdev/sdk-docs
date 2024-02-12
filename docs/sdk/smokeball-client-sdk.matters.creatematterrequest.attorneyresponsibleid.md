@@ -9,5 +9,5 @@ Matter attorney responsible.
 <b>Signature:</b>
 
 ```typescript
-attorneyResponsibleId: string;
+attorneyResponsibleId?: string;
 ```

@@ -9,5 +9,5 @@ Matter person assisting.
 <b>Signature:</b>
 
 ```typescript
-personAssistingId: string;
+personAssistingId?: string;
 ```

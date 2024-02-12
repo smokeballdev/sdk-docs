@@ -9,5 +9,5 @@ Matter originating attorney.
 <b>Signature:</b>
 
 ```typescript
-originatingAttorneyId: string;
+originatingAttorneyId?: string;
 ```

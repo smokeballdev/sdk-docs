@@ -32,6 +32,7 @@
 |  [layouts](./smokeball-client-sdk.layouts.md) |  |
 |  [matterItems](./smokeball-client-sdk.matteritems.md) |  |
 |  [matters](./smokeball-client-sdk.matters.md) |  |
+|  [memos](./smokeball-client-sdk.memos.md) |  |
 |  [relationships](./smokeball-client-sdk.relationships.md) |  |
 |  [roles](./smokeball-client-sdk.roles.md) |  |
 |  [staff](./smokeball-client-sdk.staff.md) |  |
