@@ -18,6 +18,7 @@ interface Context
 |  --- | --- | --- |
 |  [firmId](./smokeball-client-sdk.common.context.firmid.md) | string |  |
 |  [matterId?](./smokeball-client-sdk.common.context.matterid.md) | string | <i>(Optional)</i> |
+|  [region](./smokeball-client-sdk.common.context.region.md) | [Region](./smokeball-client-sdk.common.region.md) |  |
 |  [sessionId](./smokeball-client-sdk.common.context.sessionid.md) | string |  |
 |  [userId](./smokeball-client-sdk.common.context.userid.md) | string |  |
 
