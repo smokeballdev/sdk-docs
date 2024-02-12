@@ -14,9 +14,13 @@ interface CreateMatterRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [clientIds](./smokeball-client-sdk.matters.creatematterrequest.clientids.md) | string\[\] |  |
-|  [clientRole](./smokeball-client-sdk.matters.creatematterrequest.clientrole.md) | string |  |
-|  [isLead](./smokeball-client-sdk.matters.creatematterrequest.islead.md) | boolean |  |
-|  [matterTypeId](./smokeball-client-sdk.matters.creatematterrequest.mattertypeid.md) | string |  |
-|  [openMatter?](./smokeball-client-sdk.matters.creatematterrequest.openmatter.md) | boolean | <i>(Optional)</i> |
+|  [attorneyResponsibleId](./smokeball-client-sdk.matters.creatematterrequest.attorneyresponsibleid.md) | string | Matter attorney responsible. |
+|  [clientIds](./smokeball-client-sdk.matters.creatematterrequest.clientids.md) | string\[\] | Client(s) associated to the matter. |
+|  [clientRole](./smokeball-client-sdk.matters.creatematterrequest.clientrole.md) | string | Role of the client. |
+|  [isLead](./smokeball-client-sdk.matters.creatematterrequest.islead.md) | boolean | True if the matter is a lead. |
+|  [matterTypeId](./smokeball-client-sdk.matters.creatematterrequest.mattertypeid.md) | string | MatterType associated to the matter. |
+|  [openMatter?](./smokeball-client-sdk.matters.creatematterrequest.openmatter.md) | boolean | <i>(Optional)</i> True to open the matter when created. |
+|  [originatingAttorneyId](./smokeball-client-sdk.matters.creatematterrequest.originatingattorneyid.md) | string | Matter originating attorney. |
+|  [personAssistingId](./smokeball-client-sdk.matters.creatematterrequest.personassistingid.md) | string | Matter person assisting. |
+|  [supervisorId](./smokeball-client-sdk.matters.creatematterrequest.supervisorid.md) | string | Matter supervisor. |
 

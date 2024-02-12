@@ -18,6 +18,8 @@ interface Staff
 |  --- | --- | --- |
 |  [avatar](./smokeball-client-sdk.staff.staff.avatar.md) | string | Staff member's avatar. |
 |  [cell?](./smokeball-client-sdk.staff.staff.cell.md) | [firm.PhoneNumber](./smokeball-client-sdk.firm.phonenumber.md) | <i>(Optional)</i> Staff member's mobile details. |
+|  [colorFill](./smokeball-client-sdk.staff.staff.colorfill.md) | string | Staff color fill. |
+|  [colorStroke](./smokeball-client-sdk.staff.staff.colorstroke.md) | string | Staff color stroke. |
 |  [email](./smokeball-client-sdk.staff.staff.email.md) | string | Staff member's email address. |
 |  [enabled](./smokeball-client-sdk.staff.staff.enabled.md) | boolean | Whether staff member is enabled. |
 |  [firstName](./smokeball-client-sdk.staff.staff.firstname.md) | string | Staff member's first name. |

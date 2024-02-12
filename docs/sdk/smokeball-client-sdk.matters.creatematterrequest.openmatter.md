@@ -4,6 +4,8 @@
 
 ## matters.CreateMatterRequest.openMatter property
 
+True to open the matter when created.
+
 <b>Signature:</b>
 
 ```typescript

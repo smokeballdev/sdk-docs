@@ -4,6 +4,8 @@
 
 ## matters.CreateMatterRequest.clientIds property
 
+Client(s) associated to the matter.
+
 <b>Signature:</b>
 
 ```typescript

@@ -4,6 +4,8 @@
 
 ## matters.CreateMatterRequest.clientRole property
 
+Role of the client.
+
 <b>Signature:</b>
 
 ```typescript

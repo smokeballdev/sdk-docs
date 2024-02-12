@@ -23,6 +23,7 @@ interface Matter
 |  [isLead](./smokeball-client-sdk.matters.matter.islead.md) | boolean | Returns true if the matter is a lead. |
 |  [matterTypeId](./smokeball-client-sdk.matters.matter.mattertypeid.md) | string | MatterType associated to the matter. |
 |  [number](./smokeball-client-sdk.matters.matter.number.md) | string | Matter number. |
+|  [originatingAttorneyId](./smokeball-client-sdk.matters.matter.originatingattorneyid.md) | string | Matter originating attorney. |
 |  [otherSideIds](./smokeball-client-sdk.matters.matter.othersideids.md) | string\[\] | OtherSide(s) associated to the matter. |
 |  [personAssistingId](./smokeball-client-sdk.matters.matter.personassistingid.md) | string | Matter person assisting. |
 |  [reLine](./smokeball-client-sdk.matters.matter.reline.md) | string | ReLine associated to the matter. |

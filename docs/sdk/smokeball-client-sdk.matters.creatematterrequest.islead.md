@@ -4,6 +4,8 @@
 
 ## matters.CreateMatterRequest.isLead property
 
+True if the matter is a lead.
+
 <b>Signature:</b>
 
 ```typescript

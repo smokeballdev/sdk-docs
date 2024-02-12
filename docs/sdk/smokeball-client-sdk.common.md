@@ -18,4 +18,5 @@ export declare namespace common
 |  [Api](./smokeball-client-sdk.common.api.md) | The entry point for communication with Smokeball. |
 |  [Context](./smokeball-client-sdk.common.context.md) | The context associated to the session. |
 |  [InitRequest](./smokeball-client-sdk.common.initrequest.md) |  |
+|  [Region](./smokeball-client-sdk.common.region.md) |  |
 

@@ -4,6 +4,8 @@
 
 ## matters.CreateMatterRequest.matterTypeId property
 
+MatterType associated to the matter.
+
 <b>Signature:</b>
 
 ```typescript
