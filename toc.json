@@ -69,6 +69,11 @@
         },
         {
           "type": "item",
+          "title": "Memos",
+          "uri": "docs/sdk/smokeball-client-sdk.memos.api.md"
+        },
+        {
+          "type": "item",
           "title": "Roles",
           "uri": "docs/sdk/smokeball-client-sdk.roles.api.md"
         },
