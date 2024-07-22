@@ -18,6 +18,7 @@ export declare namespace contacts
 |  [Address](./smokeball-client-sdk.contacts.address.md) | Address details. |
 |  [AddressWithDxAddress](./smokeball-client-sdk.contacts.addresswithdxaddress.md) |  |
 |  [Api](./smokeball-client-sdk.contacts.api.md) | Entry point for contacts to Smokeball. |
+|  [CitizenshipDetails](./smokeball-client-sdk.contacts.citizenshipdetails.md) |  |
 |  [Company](./smokeball-client-sdk.contacts.company.md) | Company details. |
 |  [Contact](./smokeball-client-sdk.contacts.contact.md) | The contact entity from Smokeball. |
 |  [ContactSearchTerm](./smokeball-client-sdk.contacts.contactsearchterm.md) |  |
@@ -28,12 +29,14 @@ export declare namespace contacts
 |  [GetContactsRequest](./smokeball-client-sdk.contacts.getcontactsrequest.md) |  |
 |  [GetContactsResponse](./smokeball-client-sdk.contacts.getcontactsresponse.md) |  |
 |  [GroupOfPeople](./smokeball-client-sdk.contacts.groupofpeople.md) | Group of people |
+|  [IdentificationDetails](./smokeball-client-sdk.contacts.identificationdetails.md) |  |
 |  [PassportDetails](./smokeball-client-sdk.contacts.passportdetails.md) | Passport details. |
 |  [Person](./smokeball-client-sdk.contacts.person.md) | Person details. |
 |  [Phone](./smokeball-client-sdk.contacts.phone.md) | Phone details. |
 |  [Trust](./smokeball-client-sdk.contacts.trust.md) | Trust |
 |  [Trustee](./smokeball-client-sdk.contacts.trustee.md) |  |
 |  [UpdateContactRequest](./smokeball-client-sdk.contacts.updatecontactrequest.md) | Update contact request. |
+|  [UtbmsDetails](./smokeball-client-sdk.contacts.utbmsdetails.md) |  |
 
 ## Type Aliases
 

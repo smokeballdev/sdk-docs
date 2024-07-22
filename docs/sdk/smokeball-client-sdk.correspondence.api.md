@@ -17,4 +17,5 @@ interface Api
 |  Method | Description |
 |  --- | --- |
 |  [email(request)](./smokeball-client-sdk.correspondence.api.email.md) | Opens pre-populated email window. |
+|  [letter(request)](./smokeball-client-sdk.correspondence.api.letter.md) | Opens pre-populated letter window. |
 

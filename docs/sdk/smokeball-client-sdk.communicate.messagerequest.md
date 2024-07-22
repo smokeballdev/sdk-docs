@@ -16,6 +16,7 @@ interface MessageRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
+|  [attachments?](./smokeball-client-sdk.communicate.messagerequest.attachments.md) | [FileAttachment](./smokeball-client-sdk.communicate.fileattachment.md)<!-- -->\[\] | <i>(Optional)</i> Message attachments |
 |  [contactIds?](./smokeball-client-sdk.communicate.messagerequest.contactids.md) | string\[\] | <i>(Optional)</i> Contacts to send the message to. |
 |  [matterId?](./smokeball-client-sdk.communicate.messagerequest.matterid.md) | string | <i>(Optional)</i> Matter id. |
 |  [message?](./smokeball-client-sdk.communicate.messagerequest.message.md) | string | <i>(Optional)</i> Message to communicate. Can contain plain text with markdown links in the format: \[link label\](link url) |

@@ -9,5 +9,5 @@ Body of the memo.
 <b>Signature:</b>
 
 ```typescript
-text: string;
+text?: string;
 ```

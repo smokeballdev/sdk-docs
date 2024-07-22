@@ -14,7 +14,7 @@ interface OpenNewRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [matterId](./smokeball-client-sdk.memos.opennewrequest.matterid.md) | string | Associated matter id. |
-|  [text](./smokeball-client-sdk.memos.opennewrequest.text.md) | string | Body of the memo. |
-|  [title](./smokeball-client-sdk.memos.opennewrequest.title.md) | string | Short description of the memo. |
+|  [matterId?](./smokeball-client-sdk.memos.opennewrequest.matterid.md) | string | <i>(Optional)</i> Associated matter id. |
+|  [text?](./smokeball-client-sdk.memos.opennewrequest.text.md) | string | <i>(Optional)</i> Body of the memo. |
+|  [title?](./smokeball-client-sdk.memos.opennewrequest.title.md) | string | <i>(Optional)</i> Short description of the memo. |
 

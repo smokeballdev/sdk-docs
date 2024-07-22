@@ -24,12 +24,16 @@ interface Person
 |  [birthPlace?](./smokeball-client-sdk.contacts.person.birthplace.md) | string | <i>(Optional)</i> Person place of birth. |
 |  [birthState?](./smokeball-client-sdk.contacts.person.birthstate.md) | string | <i>(Optional)</i> Person state of birth. |
 |  [cell?](./smokeball-client-sdk.contacts.person.cell.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Person cell phone number. |
+|  [citizenshipDetails?](./smokeball-client-sdk.contacts.person.citizenshipdetails.md) | [CitizenshipDetails](./smokeball-client-sdk.contacts.citizenshipdetails.md) | <i>(Optional)</i> Person citizenship details. |
 |  [deathDetails?](./smokeball-client-sdk.contacts.person.deathdetails.md) | [DeathDetails](./smokeball-client-sdk.contacts.deathdetails.md) | <i>(Optional)</i> Person death details. |
 |  [email?](./smokeball-client-sdk.contacts.person.email.md) | string | <i>(Optional)</i> Person email address. |
 |  [fax?](./smokeball-client-sdk.contacts.person.fax.md) | [Phone](./smokeball-client-sdk.contacts.phone.md) | <i>(Optional)</i> Person cell phone number. |
 |  [firstName?](./smokeball-client-sdk.contacts.person.firstname.md) | string | <i>(Optional)</i> Person first name. |
 |  [gender?](./smokeball-client-sdk.contacts.person.gender.md) | string | <i>(Optional)</i> Person gender. Possible values - Male, Female, Other as well as any free text. |
-|  [languageOfInterpreter?](./smokeball-client-sdk.contacts.person.languageofinterpreter.md) | string | <i>(Optional)</i> Person language of interpreter. |
+|  [identificationDetails?](./smokeball-client-sdk.contacts.person.identificationdetails.md) | [IdentificationDetails](./smokeball-client-sdk.contacts.identificationdetails.md) | <i>(Optional)</i> Person identification details. |
+|  [identificationNumber?](./smokeball-client-sdk.contacts.person.identificationnumber.md) | string | <i>(Optional)</i> Person identification number. |
+|  [identificationNumberType?](./smokeball-client-sdk.contacts.person.identificationnumbertype.md) | string | <i>(Optional)</i> Person identification number type. |
+|  [languageOfInterpreter?](./smokeball-client-sdk.contacts.person.languageofinterpreter.md) | string | <i>(Optional)</i> Person language of interpreter. Obsolete. Use citizenshipDetails.languageOfInterpreter |
 |  [lastName?](./smokeball-client-sdk.contacts.person.lastname.md) | string | <i>(Optional)</i> Person last name. |
 |  [middleName?](./smokeball-client-sdk.contacts.person.middlename.md) | string | <i>(Optional)</i> Person middle name. |
 |  [notes?](./smokeball-client-sdk.contacts.person.notes.md) | string | <i>(Optional)</i> Person notes. |
@@ -38,4 +42,5 @@ interface Person
 |  [previousNames?](./smokeball-client-sdk.contacts.person.previousnames.md) | string | <i>(Optional)</i> Person previous names. |
 |  [residentialAddress?](./smokeball-client-sdk.contacts.person.residentialaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Person residential address. |
 |  [title?](./smokeball-client-sdk.contacts.person.title.md) | string | <i>(Optional)</i> Person title. |
+|  [utbmsDetails?](./smokeball-client-sdk.contacts.person.utbmsdetails.md) | [UtbmsDetails](./smokeball-client-sdk.contacts.utbmsdetails.md) | <i>(Optional)</i> UTBMS details.<!-- -->Only supported in US. |
 

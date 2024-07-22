@@ -4,7 +4,7 @@
 
 ## contacts.Person.languageOfInterpreter property
 
-Person language of interpreter.
+Person language of interpreter. Obsolete. Use citizenshipDetails.languageOfInterpreter
 
 <b>Signature:</b>
 

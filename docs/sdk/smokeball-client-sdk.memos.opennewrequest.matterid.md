@@ -9,5 +9,5 @@ Associated matter id.
 <b>Signature:</b>
 
 ```typescript
-matterId: string;
+matterId?: string;
 ```
