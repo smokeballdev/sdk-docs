@@ -9,5 +9,5 @@ Heading of the selection component. Default used if unset
 <b>Signature:</b>
 
 ```typescript
-heading?: boolean;
+heading?: string;
 ```

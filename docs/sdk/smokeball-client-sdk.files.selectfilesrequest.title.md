@@ -9,5 +9,5 @@ Title of the selection window. Default used if unset
 <b>Signature:</b>
 
 ```typescript
-title?: boolean;
+title?: string;
 ```
