@@ -14,8 +14,12 @@ interface SelectFilesRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
+|  [allowCombiningAsPdf?](./smokeball-client-sdk.files.selectfilesrequest.allowcombiningaspdf.md) | boolean | <i>(Optional)</i> Flag indicating whether to allow combining files into a single PDF document. Defaults to true if unset |
+|  [allowConversionToPdf?](./smokeball-client-sdk.files.selectfilesrequest.allowconversiontopdf.md) | boolean | <i>(Optional)</i> Flag indicating whether to allow conversion of individual files to PDF format. Defaults to true if unset |
 |  [confirmationText?](./smokeball-client-sdk.files.selectfilesrequest.confirmationtext.md) | string | <i>(Optional)</i> Confirmation text to display. Defaults to 'SELECT' if unset. |
 |  [fileSelectionLimit?](./smokeball-client-sdk.files.selectfilesrequest.fileselectionlimit.md) | number | <i>(Optional)</i> Maximum number of files that can be attached. Leave unset or set to 0 for no limit. |
+|  [heading?](./smokeball-client-sdk.files.selectfilesrequest.heading.md) | boolean | <i>(Optional)</i> Heading of the selection component. Default used if unset |
 |  [matterId?](./smokeball-client-sdk.files.selectfilesrequest.matterid.md) | string | <i>(Optional)</i> Matter id. |
 |  [showEmails?](./smokeball-client-sdk.files.selectfilesrequest.showemails.md) | boolean | <i>(Optional)</i> Show emails by default. Defaults to false if unset. |
+|  [title?](./smokeball-client-sdk.files.selectfilesrequest.title.md) | boolean | <i>(Optional)</i> Title of the selection window. Default used if unset |
 
