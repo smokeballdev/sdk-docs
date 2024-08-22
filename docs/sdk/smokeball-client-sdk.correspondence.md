@@ -16,9 +16,17 @@ export declare namespace correspondence
 |  Interface | Description |
 |  --- | --- |
 |  [Api](./smokeball-client-sdk.correspondence.api.md) | Entry point for correspondence to Smokeball. |
+|  [DocumentRequest](./smokeball-client-sdk.correspondence.documentrequest.md) | Document request. |
 |  [EmailRecipient](./smokeball-client-sdk.correspondence.emailrecipient.md) | Email recipient. |
 |  [EmailRequest](./smokeball-client-sdk.correspondence.emailrequest.md) | Email request. |
 |  [FileAttachment](./smokeball-client-sdk.correspondence.fileattachment.md) | File Attachment. |
+|  [FormRequest](./smokeball-client-sdk.correspondence.formrequest.md) | Form request. |
 |  [LetterRecipient](./smokeball-client-sdk.correspondence.letterrecipient.md) | Letter recipient. |
 |  [LetterRequest](./smokeball-client-sdk.correspondence.letterrequest.md) | Letter request. |
+
+## Type Aliases
+
+|  Type Alias | Description |
+|  --- | --- |
+|  [BodyContentType](./smokeball-client-sdk.correspondence.bodycontenttype.md) |  |
 

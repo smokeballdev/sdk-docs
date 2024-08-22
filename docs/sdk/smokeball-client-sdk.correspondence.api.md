@@ -16,6 +16,8 @@ interface Api
 
 |  Method | Description |
 |  --- | --- |
+|  [document(request)](./smokeball-client-sdk.correspondence.api.document.md) | Opens a Word document with the specified body content |
 |  [email(request)](./smokeball-client-sdk.correspondence.api.email.md) | Opens pre-populated email window. |
+|  [form(request)](./smokeball-client-sdk.correspondence.api.form.md) | Opens pre-populated form/caption window (US only). |
 |  [letter(request)](./smokeball-client-sdk.correspondence.api.letter.md) | Opens pre-populated letter window. |
 

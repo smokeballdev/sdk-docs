@@ -18,6 +18,7 @@ interface EmailRequest
 |  --- | --- | --- |
 |  [attachments?](./smokeball-client-sdk.correspondence.emailrequest.attachments.md) | [FileAttachment](./smokeball-client-sdk.correspondence.fileattachment.md)<!-- -->\[\] | <i>(Optional)</i> Email attachments |
 |  [bcc?](./smokeball-client-sdk.correspondence.emailrequest.bcc.md) | [EmailRecipient](./smokeball-client-sdk.correspondence.emailrecipient.md)<!-- -->\[\] | <i>(Optional)</i> Email recipients to send via blind carbon copy. |
+|  [bodyContentType?](./smokeball-client-sdk.correspondence.emailrequest.bodycontenttype.md) | [BodyContentType](./smokeball-client-sdk.correspondence.bodycontenttype.md) | <i>(Optional)</i> Body content type |
 |  [bodyHtml?](./smokeball-client-sdk.correspondence.emailrequest.bodyhtml.md) | string | <i>(Optional)</i> Body content in HTML format. |
 |  [cc?](./smokeball-client-sdk.correspondence.emailrequest.cc.md) | [EmailRecipient](./smokeball-client-sdk.correspondence.emailrecipient.md)<!-- -->\[\] | <i>(Optional)</i> Email recipients to send via carbon copy. |
 |  [matterId?](./smokeball-client-sdk.correspondence.emailrequest.matterid.md) | string | <i>(Optional)</i> Matter id. |

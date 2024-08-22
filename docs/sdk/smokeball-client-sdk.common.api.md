@@ -34,6 +34,7 @@ interface Api
 |  [staff](./smokeball-client-sdk.common.api.staff.md) | schema.[staff.Api](./smokeball-client-sdk.staff.api.md) |  |
 |  [subTasks](./smokeball-client-sdk.common.api.subtasks.md) | schema.[subTasks.Api](./smokeball-client-sdk.subtasks.api.md) |  |
 |  [tasks](./smokeball-client-sdk.common.api.tasks.md) | schema.[tasks.Api](./smokeball-client-sdk.tasks.api.md) |  |
+|  [version?](./smokeball-client-sdk.common.api.version.md) | string | <i>(Optional)</i> |
 
 ## Methods
 

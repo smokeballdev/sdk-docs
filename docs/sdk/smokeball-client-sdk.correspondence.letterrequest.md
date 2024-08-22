@@ -17,6 +17,7 @@ interface LetterRequest
 |  Property | Type | Description |
 |  --- | --- | --- |
 |  [body?](./smokeball-client-sdk.correspondence.letterrequest.body.md) | string | <i>(Optional)</i> Body content. |
+|  [bodyContentType?](./smokeball-client-sdk.correspondence.letterrequest.bodycontenttype.md) | [BodyContentType](./smokeball-client-sdk.correspondence.bodycontenttype.md) | <i>(Optional)</i> Body content type |
 |  [matterId?](./smokeball-client-sdk.correspondence.letterrequest.matterid.md) | string | <i>(Optional)</i> Matter id. |
 |  [to?](./smokeball-client-sdk.correspondence.letterrequest.to.md) | [LetterRecipient](./smokeball-client-sdk.correspondence.letterrecipient.md)<!-- -->\[\] | <i>(Optional)</i> Letter recipients to send. |
 
