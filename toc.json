@@ -59,6 +59,11 @@
         },
         {
           "type": "item",
+          "title": "MatterTypes",
+          "uri": "docs/sdk/smokeball-client-sdk.mattertypes.api.md"
+        },
+        {
+          "type": "item",
           "title": "Matters",
           "uri": "docs/sdk/smokeball-client-sdk.matters.api.md"
         },
