@@ -29,7 +29,7 @@ selected matter types.
 
 ```
 const request: SelectMatterTypesRequest = {
- defaultLocationId: 'NSW'
+   defaultLocationId: 'NSW'
 }
 const matterTypeIds = await sdk.matterTypes.select(request);
 ```

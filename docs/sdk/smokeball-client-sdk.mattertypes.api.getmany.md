@@ -29,10 +29,10 @@ specified matter types.
 
 ```
 const request: matterTypes.GetMatterTypesRequest = {
- ids: ['027fc73d-fcc6-4769-953e-9a11aaf9c73c','d2e8aea9-e201-4be7-bbe6-a4f64cc491ac'],
- locationIds: ['NSW','QLD'],
- categories: ['Litigation','Estate Administration'],
- type: 'MatterType'
+   ids: ['027fc73d-fcc6-4769-953e-9a11aaf9c73c','d2e8aea9-e201-4be7-bbe6-a4f64cc491ac'],
+   locationIds: ['NSW','QLD'],
+   categories: ['Litigation','Estate Administration'],
+   type: 'MatterType'
 }
 
 const matterTypes = await sdk.matterTypes.getMany(request);

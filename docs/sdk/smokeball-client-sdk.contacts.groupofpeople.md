@@ -17,6 +17,6 @@ interface GroupOfPeople
 |  Property | Type | Description |
 |  --- | --- | --- |
 |  [mailingAddress?](./smokeball-client-sdk.contacts.groupofpeople.mailingaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Group mailing address. |
-|  [people?](./smokeball-client-sdk.contacts.groupofpeople.people.md) | [Person](./smokeball-client-sdk.contacts.person.md)<!-- -->\[\] | <i>(Optional)</i> People in the group |
+|  [people?](./smokeball-client-sdk.contacts.groupofpeople.people.md) | string\[\] | <i>(Optional)</i> People in the group |
 |  [residentialAddress?](./smokeball-client-sdk.contacts.groupofpeople.residentialaddress.md) | [Address](./smokeball-client-sdk.contacts.address.md) | <i>(Optional)</i> Group residential address. |
 

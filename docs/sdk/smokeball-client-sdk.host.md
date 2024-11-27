@@ -15,6 +15,7 @@ export declare namespace host
 
 |  Enumeration | Description |
 |  --- | --- |
+|  [HostType](./smokeball-client-sdk.host.hosttype.md) | Enum for defining the types of hosts available. |
 |  [MatterTabs](./smokeball-client-sdk.host.mattertabs.md) |  |
 
 ## Interfaces

@@ -4,19 +4,19 @@
 
 ## matterTypes.Api.get() method
 
-Gets the matter type with the specified matter type id.
+Gets the matter type of the matter associated to the current context or the specified matter type id if provided.
 
 <b>Signature:</b>
 
 ```typescript
-get(matterTypeId: string): Promise<MatterType>;
+get(matterTypeId?: string): Promise<MatterType>;
 ```
 
 ## Parameters
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  matterTypeId | string | the matter type to retrieve. |
+|  matterTypeId | string | <i>(Optional)</i> the matter to retrieve, use null to get matter type of the matter in the current context. |
 
 <b>Returns:</b>
 
@@ -28,6 +28,8 @@ the specified matter type.
 
 
 ```
+// Returns the matter type of the matter associated to the current context.
+const matterType = await sdk.matterTypes.get();
 // Returns the matter type with the specified matter type id.
 const matterType = await sdk.matterTypes.get('027fc73d-fcc6-4769-953e-9a11aaf9c73c');
 ```

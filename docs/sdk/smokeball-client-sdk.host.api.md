@@ -21,5 +21,6 @@ interface Api
 |  [open(request)](./smokeball-client-sdk.host.api.open.md) | Opens the provided url into a new browser window. |
 |  [refresh()](./smokeball-client-sdk.host.api.refresh.md) | Refresh the host in the native app. When being called in the native app, this action will refresh the modal browser window. |
 |  [selectTab(tab)](./smokeball-client-sdk.host.api.selecttab.md) | Selects the tab in the host view. When being called in the native app, this action selects the specified tab. Nothing happens if the selected tab is invalid. Currently only supports the matter view. The main view is NOT supported. |
+|  [type()](./smokeball-client-sdk.host.api.type.md) | Retrieves the host's type. |
 |  [version()](./smokeball-client-sdk.host.api.version.md) | Retrieves the host's version. |
 

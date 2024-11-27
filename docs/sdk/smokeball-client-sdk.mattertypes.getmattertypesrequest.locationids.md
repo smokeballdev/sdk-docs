@@ -4,7 +4,7 @@
 
 ## matterTypes.GetMatterTypesRequest.locationIds property
 
-Optional: Filter by matter type location ids.
+Filter by matter type location ids.
 
 <b>Signature:</b>
 

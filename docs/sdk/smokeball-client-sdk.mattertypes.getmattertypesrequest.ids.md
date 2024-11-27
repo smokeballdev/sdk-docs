@@ -4,7 +4,7 @@
 
 ## matterTypes.GetMatterTypesRequest.ids property
 
-Optional: Filter by matter type ids.
+Filter by matter type ids.
 
 <b>Signature:</b>
 

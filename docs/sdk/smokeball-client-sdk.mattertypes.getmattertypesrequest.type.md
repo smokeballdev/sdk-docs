@@ -4,7 +4,7 @@
 
 ## matterTypes.GetMatterTypesRequest.type property
 
-Optional: Filter by category type. Possible values: MatterType, LeadType
+Filter by category type. Possible values: MatterType, LeadType
 
 <b>Signature:</b>
 

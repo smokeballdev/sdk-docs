@@ -4,7 +4,7 @@
 
 ## matterTypes.GetMatterTypesRequest.categories property
 
-Optional: Filter by matter type categories.
+Filter by matter type categories.
 
 <b>Signature:</b>
 

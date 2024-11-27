@@ -15,7 +15,7 @@ export declare namespace matterTypes
 
 |  Interface | Description |
 |  --- | --- |
-|  [Api](./smokeball-client-sdk.mattertypes.api.md) | Entry point for matters to Smokeball. |
+|  [Api](./smokeball-client-sdk.mattertypes.api.md) | Entry point for matter types to Smokeball. |
 |  [GetMatterTypesRequest](./smokeball-client-sdk.mattertypes.getmattertypesrequest.md) |  |
 |  [GetMatterTypesResponse](./smokeball-client-sdk.mattertypes.getmattertypesresponse.md) |  |
 |  [MatterType](./smokeball-client-sdk.mattertypes.mattertype.md) | The matter type entity from Smokeball. |

@@ -4,7 +4,7 @@
 
 ## matterTypes.Api interface
 
-Entry point for matters to Smokeball.
+Entry point for matter types to Smokeball.
 
 <b>Signature:</b>
 
@@ -16,7 +16,7 @@ interface Api
 
 |  Method | Description |
 |  --- | --- |
-|  [get(matterTypeId)](./smokeball-client-sdk.mattertypes.api.get.md) | Gets the matter type with the specified matter type id. |
+|  [get(matterTypeId)](./smokeball-client-sdk.mattertypes.api.get.md) | Gets the matter type of the matter associated to the current context or the specified matter type id if provided. |
 |  [getMany(request)](./smokeball-client-sdk.mattertypes.api.getmany.md) | Get matter types associated with matter type ids provided. |
 |  [select(request)](./smokeball-client-sdk.mattertypes.api.select.md) | Opens a matter type picker to multi-select matter types. Returns the selected matter type ids. |
 

@@ -14,8 +14,8 @@ interface GetMatterTypesRequest
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [categories?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.categories.md) | string\[\] | <i>(Optional)</i> Optional: Filter by matter type categories. |
-|  [ids?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.ids.md) | string\[\] | <i>(Optional)</i> Optional: Filter by matter type ids. |
-|  [locationIds?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.locationids.md) | string\[\] | <i>(Optional)</i> Optional: Filter by matter type location ids. |
-|  [type?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.type.md) | string | <i>(Optional)</i> Optional: Filter by category type. Possible values: MatterType, LeadType |
+|  [categories?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.categories.md) | string\[\] | <i>(Optional)</i> Filter by matter type categories. |
+|  [ids?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.ids.md) | string\[\] | <i>(Optional)</i> Filter by matter type ids. |
+|  [locationIds?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.locationids.md) | string\[\] | <i>(Optional)</i> Filter by matter type location ids. |
+|  [type?](./smokeball-client-sdk.mattertypes.getmattertypesrequest.type.md) | string | <i>(Optional)</i> Filter by category type. Possible values: MatterType, LeadType |
 
