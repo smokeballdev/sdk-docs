@@ -9,5 +9,5 @@ People in the group
 <b>Signature:</b>
 
 ```typescript
-people?: string[];
+people?: Person[];
 ```

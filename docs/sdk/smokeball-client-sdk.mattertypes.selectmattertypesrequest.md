@@ -15,4 +15,5 @@ interface SelectMatterTypesRequest
 |  Property | Type | Description |
 |  --- | --- | --- |
 |  [defaultLocationId?](./smokeball-client-sdk.mattertypes.selectmattertypesrequest.defaultlocationid.md) | string | <i>(Optional)</i> Default location id. |
+|  [selectedMatterTypeIds?](./smokeball-client-sdk.mattertypes.selectmattertypesrequest.selectedmattertypeids.md) | string\[\] | <i>(Optional)</i> Selected matter type ids (only available on desktop for now). |
 
